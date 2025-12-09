@@ -1,0 +1,2788 @@
+building_name: my_map
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {speed_limit: 0, undock_name: zone_1}
+    - - 1
+      - 0
+      - {dock_name: zone_1, speed_limit: 0}
+    - - 1
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 1
+      - {speed_limit: 0}
+    - - 2
+      - 3
+      - {speed_limit: 0}
+    - - 3
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 2
+      - {speed_limit: 0}
+    - - 4
+      - 5
+      - {speed_limit: 0}
+    - - 5
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 4
+      - {speed_limit: 0}
+    - - 6
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 6
+      - {speed_limit: 0}
+    - - 8
+      - 9
+      - {speed_limit: 0}
+    - - 9
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 8
+      - {speed_limit: 0}
+    - - 10
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 10
+      - {speed_limit: 0}
+    - - 12
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 12
+      - {speed_limit: 0}
+    - - 14
+      - 15
+      - {speed_limit: 0}
+    - - 15
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 16
+      - {speed_limit: 0}
+    - - 16
+      - 14
+      - {speed_limit: 0}
+    - - 16
+      - 17
+      - {speed_limit: 0}
+    - - 17
+      - 16
+      - {speed_limit: 0}
+    - - 16
+      - 18
+      - {speed_limit: 0}
+    - - 18
+      - 16
+      - {speed_limit: 0}
+    - - 18
+      - 19
+      - {speed_limit: 0}
+    - - 19
+      - 18
+      - {speed_limit: 0}
+    - - 18
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 18
+      - {speed_limit: 0}
+    - - 20
+      - 21
+      - {speed_limit: 0}
+    - - 21
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 20
+      - {speed_limit: 0}
+    - - 22
+      - 23
+      - {speed_limit: 0}
+    - - 23
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 22
+      - {speed_limit: 0}
+    - - 24
+      - 25
+      - {speed_limit: 0}
+    - - 25
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 24
+      - {speed_limit: 0}
+    - - 26
+      - 27
+      - {speed_limit: 0}
+    - - 27
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 26
+      - {speed_limit: 0}
+    - - 28
+      - 29
+      - {speed_limit: 0}
+    - - 29
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 30
+      - {speed_limit: 0}
+    - - 30
+      - 28
+      - {speed_limit: 0}
+    - - 30
+      - 31
+      - {speed_limit: 0}
+    - - 31
+      - 30
+      - {speed_limit: 0}
+    - - 30
+      - 32
+      - {speed_limit: 0}
+    - - 32
+      - 30
+      - {speed_limit: 0}
+    - - 32
+      - 33
+      - {speed_limit: 0}
+    - - 33
+      - 32
+      - {speed_limit: 0}
+    - - 32
+      - 34
+      - {speed_limit: 0}
+    - - 34
+      - 32
+      - {speed_limit: 0}
+    - - 34
+      - 35
+      - {speed_limit: 0}
+    - - 35
+      - 34
+      - {speed_limit: 0}
+    - - 34
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 34
+      - {speed_limit: 0}
+    - - 36
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 36
+      - {speed_limit: 0}
+    - - 37
+      - 38
+      - {speed_limit: 0}
+    - - 38
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 39
+      - {speed_limit: 0}
+    - - 39
+      - 37
+      - {speed_limit: 0}
+    - - 39
+      - 40
+      - {speed_limit: 0}
+    - - 40
+      - 39
+      - {speed_limit: 0}
+    - - 39
+      - 41
+      - {speed_limit: 0}
+    - - 41
+      - 39
+      - {speed_limit: 0}
+    - - 41
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 41
+      - {speed_limit: 0}
+    - - 42
+      - 43
+      - {speed_limit: 0}
+    - - 43
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 42
+      - {speed_limit: 0}
+    - - 44
+      - 45
+      - {speed_limit: 0}
+    - - 45
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 44
+      - {speed_limit: 0}
+    - - 46
+      - 47
+      - {speed_limit: 0}
+    - - 47
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 46
+      - {speed_limit: 0}
+    - - 48
+      - 49
+      - {speed_limit: 0}
+    - - 49
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 48
+      - {speed_limit: 0}
+    - - 50
+      - 51
+      - {speed_limit: 0}
+    - - 51
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 52
+      - {speed_limit: 0}
+    - - 52
+      - 50
+      - {speed_limit: 0}
+    - - 52
+      - 53
+      - {speed_limit: 0}
+    - - 53
+      - 52
+      - {speed_limit: 0}
+    - - 52
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 52
+      - {speed_limit: 0}
+    - - 54
+      - 55
+      - {speed_limit: 0}
+    - - 55
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 54
+      - {speed_limit: 0}
+    - - 56
+      - 57
+      - {speed_limit: 0}
+    - - 57
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 56
+      - {speed_limit: 0}
+    - - 58
+      - 59
+      - {speed_limit: 0}
+    - - 59
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 60
+      - {dock_name: charger_tw_1, speed_limit: 0}
+    - - 60
+      - 58
+      - {speed_limit: 0, undock_name: charger_tw_1}
+    - - 60
+      - 61
+      - {speed_limit: 0, undock_name: charger_tw_1}
+    - - 61
+      - 60
+      - {dock_name: charger_tw_1, speed_limit: 0}
+    - - 60
+      - 62
+      - {speed_limit: 0, undock_name: charger_tw_1}
+    - - 62
+      - 60
+      - {dock_name: charger_tw_1, speed_limit: 0}
+    - - 62
+      - 63
+      - {speed_limit: 0}
+    - - 63
+      - 62
+      - {speed_limit: 0}
+    - - 62
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 62
+      - {speed_limit: 0}
+    - - 64
+      - 65
+      - {speed_limit: 0}
+    - - 65
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 66
+      - {speed_limit: 0}
+    - - 66
+      - 64
+      - {speed_limit: 0}
+    - - 66
+      - 67
+      - {speed_limit: 0}
+    - - 67
+      - 66
+      - {speed_limit: 0}
+    - - 66
+      - 68
+      - {speed_limit: 0}
+    - - 68
+      - 66
+      - {speed_limit: 0}
+    - - 68
+      - 69
+      - {speed_limit: 0}
+    - - 69
+      - 68
+      - {speed_limit: 0}
+    - - 68
+      - 70
+      - {speed_limit: 0}
+    - - 70
+      - 68
+      - {speed_limit: 0}
+    - - 70
+      - 71
+      - {speed_limit: 0}
+    - - 71
+      - 70
+      - {speed_limit: 0}
+    - - 70
+      - 72
+      - {speed_limit: 0}
+    - - 72
+      - 70
+      - {speed_limit: 0}
+    - - 72
+      - 73
+      - {speed_limit: 0}
+    - - 73
+      - 72
+      - {speed_limit: 0}
+    - - 72
+      - 74
+      - {speed_limit: 0}
+    - - 74
+      - 72
+      - {speed_limit: 0}
+    - - 74
+      - 75
+      - {speed_limit: 0}
+    - - 75
+      - 74
+      - {speed_limit: 0}
+    - - 74
+      - 76
+      - {speed_limit: 0}
+    - - 76
+      - 74
+      - {speed_limit: 0}
+    - - 76
+      - 77
+      - {speed_limit: 0}
+    - - 77
+      - 76
+      - {speed_limit: 0}
+    - - 77
+      - 0
+      - {dock_name: zone_1, speed_limit: 0}
+    - - 0
+      - 77
+      - {speed_limit: 0, undock_name: zone_1}
+    - - 0
+      - 78
+      - {speed_limit: 0, undock_name: zone_1}
+    - - 78
+      - 0
+      - {dock_name: zone_1, speed_limit: 0}
+    - - 78
+      - 79
+      - {speed_limit: 0}
+    - - 79
+      - 78
+      - {speed_limit: 0}
+    - - 79
+      - 80
+      - {speed_limit: 0}
+    - - 80
+      - 79
+      - {speed_limit: 0}
+    - - 80
+      - 81
+      - {speed_limit: 0}
+    - - 81
+      - 80
+      - {speed_limit: 0}
+    - - 81
+      - 82
+      - {speed_limit: 0}
+    - - 82
+      - 81
+      - {speed_limit: 0}
+    - - 81
+      - 83
+      - {speed_limit: 0}
+    - - 83
+      - 81
+      - {speed_limit: 0}
+    - - 83
+      - 84
+      - {speed_limit: 0}
+    - - 84
+      - 83
+      - {speed_limit: 0}
+    - - 83
+      - 85
+      - {speed_limit: 0}
+    - - 85
+      - 83
+      - {speed_limit: 0}
+    - - 85
+      - 86
+      - {speed_limit: 0}
+    - - 86
+      - 85
+      - {speed_limit: 0}
+    - - 85
+      - 87
+      - {speed_limit: 0}
+    - - 87
+      - 85
+      - {speed_limit: 0}
+    - - 87
+      - 88
+      - {speed_limit: 0}
+    - - 88
+      - 87
+      - {speed_limit: 0}
+    - - 87
+      - 89
+      - {speed_limit: 0}
+    - - 89
+      - 87
+      - {speed_limit: 0}
+    - - 89
+      - 90
+      - {speed_limit: 0}
+    - - 90
+      - 89
+      - {speed_limit: 0}
+    - - 89
+      - 91
+      - {speed_limit: 0}
+    - - 91
+      - 89
+      - {speed_limit: 0}
+    - - 91
+      - 92
+      - {dock_name: zone_2, speed_limit: 0}
+    - - 92
+      - 91
+      - {speed_limit: 0, undock_name: zone_2}
+    - - 91
+      - 93
+      - {speed_limit: 0}
+    - - 93
+      - 91
+      - {speed_limit: 0}
+    - - 93
+      - 94
+      - {speed_limit: 0}
+    - - 94
+      - 93
+      - {speed_limit: 0}
+    - - 93
+      - 95
+      - {dock_name: charger_tb_1, speed_limit: 0}
+    - - 95
+      - 93
+      - {speed_limit: 0, undock_name: charger_tb_1}
+    - - 95
+      - 96
+      - {speed_limit: 0, undock_name: charger_tb_1}
+    - - 96
+      - 95
+      - {dock_name: charger_tb_1, speed_limit: 0}
+    - - 95
+      - 97
+      - {speed_limit: 0, undock_name: charger_tb_1}
+    - - 97
+      - 95
+      - {dock_name: charger_tb_1, speed_limit: 0}
+    - - 97
+      - 98
+      - {speed_limit: 0}
+    - - 98
+      - 97
+      - {speed_limit: 0}
+    - - 97
+      - 99
+      - {speed_limit: 0}
+    - - 99
+      - 97
+      - {speed_limit: 0}
+    - - 99
+      - 100
+      - {speed_limit: 0}
+    - - 100
+      - 99
+      - {speed_limit: 0}
+    - - 99
+      - 101
+      - {speed_limit: 0}
+    - - 101
+      - 99
+      - {speed_limit: 0}
+    - - 101
+      - 102
+      - {speed_limit: 0}
+    - - 102
+      - 101
+      - {speed_limit: 0}
+    - - 101
+      - 103
+      - {speed_limit: 0}
+    - - 103
+      - 101
+      - {speed_limit: 0}
+    - - 103
+      - 104
+      - {speed_limit: 0}
+    - - 104
+      - 103
+      - {speed_limit: 0}
+    - - 103
+      - 105
+      - {speed_limit: 0}
+    - - 105
+      - 103
+      - {speed_limit: 0}
+    - - 105
+      - 106
+      - {speed_limit: 0}
+    - - 106
+      - 105
+      - {speed_limit: 0}
+    - - 105
+      - 107
+      - {speed_limit: 0}
+    - - 107
+      - 105
+      - {speed_limit: 0}
+    - - 107
+      - 108
+      - {speed_limit: 0}
+    - - 108
+      - 107
+      - {speed_limit: 0}
+    - - 107
+      - 109
+      - {speed_limit: 0}
+    - - 109
+      - 107
+      - {speed_limit: 0}
+    - - 109
+      - 110
+      - {speed_limit: 0}
+    - - 110
+      - 109
+      - {speed_limit: 0}
+    - - 109
+      - 111
+      - {speed_limit: 0}
+    - - 111
+      - 109
+      - {speed_limit: 0}
+    - - 111
+      - 112
+      - {speed_limit: 0}
+    - - 112
+      - 111
+      - {speed_limit: 0}
+    - - 111
+      - 113
+      - {speed_limit: 0}
+    - - 113
+      - 111
+      - {speed_limit: 0}
+    - - 113
+      - 114
+      - {speed_limit: 0}
+    - - 114
+      - 113
+      - {speed_limit: 0}
+    - - 113
+      - 115
+      - {speed_limit: 0}
+    - - 115
+      - 113
+      - {speed_limit: 0}
+    - - 115
+      - 116
+      - {speed_limit: 0}
+    - - 116
+      - 115
+      - {speed_limit: 0}
+    - - 116
+      - 117
+      - {speed_limit: 0}
+    - - 117
+      - 116
+      - {speed_limit: 0}
+    - - 116
+      - 41
+      - {speed_limit: 0}
+    - - 41
+      - 116
+      - {speed_limit: 0}
+    - - 78
+      - 118
+      - {speed_limit: 0}
+    - - 118
+      - 78
+      - {speed_limit: 0}
+    - - 118
+      - 119
+      - {speed_limit: 0}
+    - - 119
+      - 118
+      - {speed_limit: 0}
+    - - 119
+      - 120
+      - {speed_limit: 0}
+    - - 120
+      - 119
+      - {speed_limit: 0}
+    - - 120
+      - 121
+      - {speed_limit: 0}
+    - - 121
+      - 120
+      - {speed_limit: 0}
+    - - 121
+      - 122
+      - {speed_limit: 0}
+    - - 122
+      - 121
+      - {speed_limit: 0}
+    - - 121
+      - 123
+      - {speed_limit: 0}
+    - - 123
+      - 121
+      - {speed_limit: 0}
+    - - 123
+      - 124
+      - {speed_limit: 0}
+    - - 124
+      - 123
+      - {speed_limit: 0}
+    - - 123
+      - 125
+      - {speed_limit: 0}
+    - - 125
+      - 123
+      - {speed_limit: 0}
+    - - 125
+      - 126
+      - {speed_limit: 0}
+    - - 126
+      - 125
+      - {speed_limit: 0}
+    - - 125
+      - 127
+      - {speed_limit: 0}
+    - - 127
+      - 125
+      - {speed_limit: 0}
+    - - 127
+      - 128
+      - {speed_limit: 0}
+    - - 128
+      - 127
+      - {speed_limit: 0}
+    - - 127
+      - 129
+      - {speed_limit: 0}
+    - - 129
+      - 127
+      - {speed_limit: 0}
+    - - 129
+      - 130
+      - {speed_limit: 0}
+    - - 130
+      - 129
+      - {speed_limit: 0}
+    - - 129
+      - 131
+      - {speed_limit: 0}
+    - - 131
+      - 129
+      - {speed_limit: 0}
+    - - 131
+      - 132
+      - {speed_limit: 0}
+    - - 132
+      - 131
+      - {speed_limit: 0}
+    - - 131
+      - 133
+      - {speed_limit: 0}
+    - - 133
+      - 131
+      - {speed_limit: 0}
+    - - 133
+      - 134
+      - {speed_limit: 0}
+    - - 134
+      - 133
+      - {speed_limit: 0}
+    - - 133
+      - 135
+      - {speed_limit: 0}
+    - - 135
+      - 133
+      - {speed_limit: 0}
+    - - 135
+      - 136
+      - {speed_limit: 0}
+    - - 136
+      - 135
+      - {speed_limit: 0}
+    - - 135
+      - 137
+      - {speed_limit: 0}
+    - - 137
+      - 135
+      - {speed_limit: 0}
+    - - 137
+      - 138
+      - {speed_limit: 0}
+    - - 138
+      - 137
+      - {speed_limit: 0}
+    - - 137
+      - 139
+      - {speed_limit: 0}
+    - - 139
+      - 137
+      - {speed_limit: 0}
+    - - 139
+      - 140
+      - {speed_limit: 0}
+    - - 140
+      - 139
+      - {speed_limit: 0}
+    - - 139
+      - 141
+      - {speed_limit: 0}
+    - - 141
+      - 139
+      - {speed_limit: 0}
+    - - 141
+      - 142
+      - {speed_limit: 0}
+    - - 142
+      - 141
+      - {speed_limit: 0}
+    - - 141
+      - 143
+      - {speed_limit: 0}
+    - - 143
+      - 141
+      - {speed_limit: 0}
+    - - 143
+      - 144
+      - {speed_limit: 0}
+    - - 144
+      - 143
+      - {speed_limit: 0}
+    - - 143
+      - 145
+      - {speed_limit: 0}
+    - - 145
+      - 143
+      - {speed_limit: 0}
+    - - 145
+      - 146
+      - {speed_limit: 0}
+    - - 146
+      - 145
+      - {speed_limit: 0}
+    - - 145
+      - 147
+      - {speed_limit: 0}
+    - - 147
+      - 145
+      - {speed_limit: 0}
+    - - 147
+      - 148
+      - {speed_limit: 0}
+    - - 148
+      - 147
+      - {speed_limit: 0}
+    - - 147
+      - 149
+      - {speed_limit: 0}
+    - - 149
+      - 147
+      - {speed_limit: 0}
+    - - 149
+      - 150
+      - {speed_limit: 0}
+    - - 150
+      - 149
+      - {speed_limit: 0}
+    - - 149
+      - 151
+      - {speed_limit: 0}
+    - - 151
+      - 149
+      - {speed_limit: 0}
+    - - 151
+      - 152
+      - {speed_limit: 0}
+    - - 152
+      - 151
+      - {speed_limit: 0}
+    - - 151
+      - 153
+      - {speed_limit: 0}
+    - - 153
+      - 151
+      - {speed_limit: 0}
+    - - 153
+      - 154
+      - {speed_limit: 0}
+    - - 154
+      - 153
+      - {speed_limit: 0}
+    - - 153
+      - 155
+      - {speed_limit: 0}
+    - - 155
+      - 153
+      - {speed_limit: 0}
+    - - 155
+      - 156
+      - {speed_limit: 0}
+    - - 156
+      - 155
+      - {speed_limit: 0}
+    - - 156
+      - 157
+      - {speed_limit: 0}
+    - - 157
+      - 156
+      - {speed_limit: 0}
+    - - 156
+      - 158
+      - {speed_limit: 0}
+    - - 158
+      - 156
+      - {speed_limit: 0}
+    - - 158
+      - 159
+      - {speed_limit: 0}
+    - - 159
+      - 158
+      - {speed_limit: 0}
+    - - 158
+      - 115
+      - {speed_limit: 0}
+    - - 115
+      - 158
+      - {speed_limit: 0}
+    - - 0
+      - 160
+      - {speed_limit: 0, undock_name: zone_1}
+    - - 160
+      - 0
+      - {dock_name: zone_1, speed_limit: 0}
+    - - 160
+      - 161
+      - {speed_limit: 0}
+    - - 161
+      - 160
+      - {speed_limit: 0}
+    - - 161
+      - 162
+      - {speed_limit: 0}
+    - - 162
+      - 161
+      - {speed_limit: 0}
+    - - 162
+      - 163
+      - {speed_limit: 0}
+    - - 163
+      - 162
+      - {speed_limit: 0}
+    - - 163
+      - 164
+      - {speed_limit: 0}
+    - - 164
+      - 163
+      - {speed_limit: 0}
+    - - 163
+      - 165
+      - {speed_limit: 0}
+    - - 165
+      - 163
+      - {speed_limit: 0}
+    - - 165
+      - 166
+      - {speed_limit: 0}
+    - - 166
+      - 165
+      - {speed_limit: 0}
+    - - 165
+      - 167
+      - {speed_limit: 0}
+    - - 167
+      - 165
+      - {speed_limit: 0}
+    - - 167
+      - 168
+      - {speed_limit: 0}
+    - - 168
+      - 167
+      - {speed_limit: 0}
+    - - 167
+      - 169
+      - {speed_limit: 0}
+    - - 169
+      - 167
+      - {speed_limit: 0}
+    - - 169
+      - 170
+      - {speed_limit: 0}
+    - - 170
+      - 169
+      - {speed_limit: 0}
+    - - 169
+      - 171
+      - {speed_limit: 0}
+    - - 171
+      - 169
+      - {speed_limit: 0}
+    - - 171
+      - 172
+      - {speed_limit: 0}
+    - - 172
+      - 171
+      - {speed_limit: 0}
+    - - 171
+      - 173
+      - {speed_limit: 0}
+    - - 173
+      - 171
+      - {speed_limit: 0}
+    - - 173
+      - 174
+      - {speed_limit: 0}
+    - - 174
+      - 173
+      - {speed_limit: 0}
+    - - 173
+      - 175
+      - {speed_limit: 0}
+    - - 175
+      - 173
+      - {speed_limit: 0}
+    - - 175
+      - 176
+      - {speed_limit: 0}
+    - - 176
+      - 175
+      - {speed_limit: 0}
+    - - 175
+      - 177
+      - {speed_limit: 0}
+    - - 177
+      - 175
+      - {speed_limit: 0}
+    - - 177
+      - 178
+      - {speed_limit: 0}
+    - - 178
+      - 177
+      - {speed_limit: 0}
+    - - 177
+      - 179
+      - {speed_limit: 0}
+    - - 179
+      - 177
+      - {speed_limit: 0}
+    - - 179
+      - 180
+      - {speed_limit: 0}
+    - - 180
+      - 179
+      - {speed_limit: 0}
+    - - 179
+      - 181
+      - {speed_limit: 0}
+    - - 181
+      - 179
+      - {speed_limit: 0}
+    - - 181
+      - 182
+      - {speed_limit: 0}
+    - - 182
+      - 181
+      - {speed_limit: 0}
+    - - 181
+      - 183
+      - {speed_limit: 0}
+    - - 183
+      - 181
+      - {speed_limit: 0}
+    - - 183
+      - 184
+      - {speed_limit: 0}
+    - - 184
+      - 183
+      - {speed_limit: 0}
+    - - 183
+      - 185
+      - {speed_limit: 0}
+    - - 185
+      - 183
+      - {speed_limit: 0}
+    - - 185
+      - 186
+      - {speed_limit: 0}
+    - - 186
+      - 185
+      - {speed_limit: 0}
+    - - 185
+      - 187
+      - {speed_limit: 0}
+    - - 187
+      - 185
+      - {speed_limit: 0}
+    - - 187
+      - 188
+      - {speed_limit: 0}
+    - - 188
+      - 187
+      - {speed_limit: 0}
+    - - 187
+      - 189
+      - {speed_limit: 0}
+    - - 189
+      - 187
+      - {speed_limit: 0}
+    - - 189
+      - 190
+      - {speed_limit: 0}
+    - - 190
+      - 189
+      - {speed_limit: 0}
+    - - 189
+      - 191
+      - {speed_limit: 0}
+    - - 191
+      - 189
+      - {speed_limit: 0}
+    - - 191
+      - 192
+      - {speed_limit: 0}
+    - - 192
+      - 191
+      - {speed_limit: 0}
+    - - 191
+      - 193
+      - {speed_limit: 0}
+    - - 193
+      - 191
+      - {speed_limit: 0}
+    - - 193
+      - 194
+      - {speed_limit: 0}
+    - - 194
+      - 193
+      - {speed_limit: 0}
+    - - 193
+      - 195
+      - {speed_limit: 0}
+    - - 195
+      - 193
+      - {speed_limit: 0}
+    - - 195
+      - 196
+      - {speed_limit: 0}
+    - - 196
+      - 195
+      - {speed_limit: 0}
+    - - 195
+      - 197
+      - {speed_limit: 0}
+    - - 197
+      - 195
+      - {speed_limit: 0}
+    - - 197
+      - 198
+      - {speed_limit: 0}
+    - - 198
+      - 197
+      - {speed_limit: 0}
+    - - 198
+      - 199
+      - {speed_limit: 0}
+    - - 199
+      - 198
+      - {speed_limit: 0}
+    - - 198
+      - 200
+      - {speed_limit: 0}
+    - - 200
+      - 198
+      - {speed_limit: 0}
+    - - 200
+      - 201
+      - {speed_limit: 0}
+    - - 201
+      - 200
+      - {speed_limit: 0}
+    - - 200
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 200
+      - {speed_limit: 0}
+    - - 197
+      - 202
+      - {speed_limit: 0}
+    - - 202
+      - 197
+      - {speed_limit: 0}
+    - - 202
+      - 203
+      - {speed_limit: 0}
+    - - 203
+      - 202
+      - {speed_limit: 0}
+    - - 202
+      - 204
+      - {speed_limit: 0}
+    - - 204
+      - 202
+      - {speed_limit: 0}
+    - - 204
+      - 205
+      - {speed_limit: 0}
+    - - 205
+      - 204
+      - {speed_limit: 0}
+    - - 204
+      - 206
+      - {speed_limit: 0}
+    - - 206
+      - 204
+      - {speed_limit: 0}
+    - - 206
+      - 207
+      - {speed_limit: 0}
+    - - 207
+      - 206
+      - {speed_limit: 0}
+    - - 207
+      - 208
+      - {speed_limit: 0}
+    - - 208
+      - 207
+      - {speed_limit: 0}
+    - - 207
+      - 209
+      - {speed_limit: 0}
+    - - 209
+      - 207
+      - {speed_limit: 0}
+    - - 206
+      - 210
+      - {speed_limit: 0}
+    - - 210
+      - 206
+      - {speed_limit: 0}
+    - - 210
+      - 211
+      - {speed_limit: 0}
+    - - 211
+      - 210
+      - {speed_limit: 0}
+    - - 210
+      - 212
+      - {speed_limit: 0}
+    - - 212
+      - 210
+      - {speed_limit: 0}
+    - - 212
+      - 213
+      - {speed_limit: 0}
+    - - 213
+      - 212
+      - {speed_limit: 0}
+    - - 212
+      - 214
+      - {speed_limit: 0}
+    - - 214
+      - 212
+      - {speed_limit: 0}
+    - - 214
+      - 215
+      - {speed_limit: 0}
+    - - 215
+      - 214
+      - {speed_limit: 0}
+    - - 214
+      - 216
+      - {speed_limit: 0}
+    - - 216
+      - 214
+      - {speed_limit: 0}
+    - - 216
+      - 217
+      - {speed_limit: 0}
+    - - 217
+      - 216
+      - {speed_limit: 0}
+    - - 216
+      - 218
+      - {speed_limit: 0}
+    - - 218
+      - 216
+      - {speed_limit: 0}
+    - - 218
+      - 219
+      - {speed_limit: 0}
+    - - 219
+      - 218
+      - {speed_limit: 0}
+    - - 218
+      - 220
+      - {speed_limit: 0}
+    - - 220
+      - 218
+      - {speed_limit: 0}
+    - - 220
+      - 221
+      - {speed_limit: 0}
+    - - 221
+      - 220
+      - {speed_limit: 0}
+    - - 220
+      - 222
+      - {speed_limit: 0}
+    - - 222
+      - 220
+      - {speed_limit: 0}
+    - - 222
+      - 223
+      - {speed_limit: 0}
+    - - 223
+      - 222
+      - {speed_limit: 0}
+    - - 222
+      - 224
+      - {speed_limit: 0}
+    - - 224
+      - 222
+      - {speed_limit: 0}
+    - - 224
+      - 225
+      - {speed_limit: 0}
+    - - 225
+      - 224
+      - {speed_limit: 0}
+    - - 224
+      - 226
+      - {speed_limit: 0}
+    - - 226
+      - 224
+      - {speed_limit: 0}
+    - - 226
+      - 227
+      - {speed_limit: 0}
+    - - 227
+      - 226
+      - {speed_limit: 0}
+    - - 226
+      - 228
+      - {speed_limit: 0}
+    - - 228
+      - 226
+      - {speed_limit: 0}
+    - - 228
+      - 229
+      - {speed_limit: 0}
+    - - 229
+      - 228
+      - {speed_limit: 0}
+    - - 228
+      - 230
+      - {speed_limit: 0}
+    - - 230
+      - 228
+      - {speed_limit: 0}
+    - - 230
+      - 231
+      - {speed_limit: 0}
+    - - 231
+      - 230
+      - {speed_limit: 0}
+    - - 230
+      - 232
+      - {speed_limit: 0}
+    - - 232
+      - 230
+      - {speed_limit: 0}
+    - - 232
+      - 233
+      - {speed_limit: 0}
+    - - 233
+      - 232
+      - {speed_limit: 0}
+    - - 232
+      - 234
+      - {speed_limit: 0}
+    - - 234
+      - 232
+      - {speed_limit: 0}
+    - - 234
+      - 235
+      - {speed_limit: 0}
+    - - 235
+      - 234
+      - {speed_limit: 0}
+    - - 234
+      - 236
+      - {speed_limit: 0}
+    - - 236
+      - 234
+      - {speed_limit: 0}
+    - - 236
+      - 237
+      - {speed_limit: 0}
+    - - 237
+      - 236
+      - {speed_limit: 0}
+    - - 236
+      - 238
+      - {speed_limit: 0}
+    - - 238
+      - 236
+      - {speed_limit: 0}
+    - - 238
+      - 239
+      - {speed_limit: 0}
+    - - 239
+      - 238
+      - {speed_limit: 0}
+    - - 238
+      - 240
+      - {speed_limit: 0}
+    - - 240
+      - 238
+      - {speed_limit: 0}
+    - - 240
+      - 241
+      - {speed_limit: 0}
+    - - 241
+      - 240
+      - {speed_limit: 0}
+    - - 240
+      - 242
+      - {speed_limit: 0}
+    - - 242
+      - 240
+      - {speed_limit: 0}
+    - - 242
+      - 243
+      - {speed_limit: 0}
+    - - 243
+      - 242
+      - {speed_limit: 0}
+    - - 242
+      - 244
+      - {speed_limit: 0}
+    - - 244
+      - 242
+      - {speed_limit: 0}
+    - - 244
+      - 245
+      - {speed_limit: 0}
+    - - 245
+      - 244
+      - {speed_limit: 0}
+    - - 245
+      - 246
+      - {speed_limit: 0}
+    - - 246
+      - 245
+      - {speed_limit: 0}
+    - - 246
+      - 160
+      - {speed_limit: 0}
+    - - 160
+      - 246
+      - {speed_limit: 0}
+    - - 247
+      - 160
+      - {speed_limit: 0}
+    - - 160
+      - 247
+      - {speed_limit: 0}
+    - - 247
+      - 248
+      - {speed_limit: 0}
+    - - 248
+      - 247
+      - {speed_limit: 0}
+    - - 247
+      - 249
+      - {speed_limit: 0}
+    - - 249
+      - 247
+      - {speed_limit: 0}
+    - - 249
+      - 250
+      - {speed_limit: 0}
+    - - 250
+      - 249
+      - {speed_limit: 0}
+    - - 249
+      - 251
+      - {speed_limit: 0}
+    - - 251
+      - 249
+      - {speed_limit: 0}
+    - - 251
+      - 252
+      - {speed_limit: 0}
+    - - 252
+      - 251
+      - {speed_limit: 0}
+    - - 251
+      - 253
+      - {speed_limit: 0}
+    - - 253
+      - 251
+      - {speed_limit: 0}
+    - - 253
+      - 254
+      - {speed_limit: 0}
+    - - 254
+      - 253
+      - {speed_limit: 0}
+    - - 254
+      - 255
+      - {speed_limit: 0}
+    - - 255
+      - 254
+      - {speed_limit: 0}
+    - - 255
+      - 256
+      - {speed_limit: 0}
+    - - 256
+      - 255
+      - {speed_limit: 0}
+    - - 256
+      - 0
+      - {dock_name: zone_1, speed_limit: 0}
+    - - 0
+      - 256
+      - {speed_limit: 0, undock_name: zone_1}
+    - - 0
+      - 257
+      - {speed_limit: 0, undock_name: zone_1}
+    - - 257
+      - 0
+      - {dock_name: zone_1, speed_limit: 0}
+    - - 257
+      - 258
+      - {speed_limit: 0}
+    - - 258
+      - 257
+      - {speed_limit: 0}
+    - - 258
+      - 254
+      - {speed_limit: 0}
+    - - 254
+      - 258
+      - {speed_limit: 0}
+    - - 254
+      - 259
+      - {speed_limit: 0}
+    - - 259
+      - 254
+      - {speed_limit: 0}
+    - - 259
+      - 0
+      - {dock_name: zone_1, speed_limit: 0}
+    - - 0
+      - 259
+      - {speed_limit: 0, undock_name: zone_1}
+    - - 253
+      - 260
+      - {speed_limit: 0}
+    - - 260
+      - 253
+      - {speed_limit: 0}
+    - - 260
+      - 78
+      - {speed_limit: 0}
+    - - 78
+      - 260
+      - {speed_limit: 0}
+    - - 260
+      - 261
+      - {speed_limit: 0}
+    - - 261
+      - 260
+      - {speed_limit: 0}
+    - - 261
+      - 262
+      - {speed_limit: 0}
+    - - 262
+      - 261
+      - {speed_limit: 0}
+    - - 261
+      - 263
+      - {speed_limit: 0}
+    - - 263
+      - 261
+      - {speed_limit: 0}
+    - - 263
+      - 264
+      - {speed_limit: 0}
+    - - 264
+      - 263
+      - {speed_limit: 0}
+    - - 264
+      - 265
+      - {speed_limit: 0}
+    - - 265
+      - 264
+      - {speed_limit: 0}
+    - - 265
+      - 266
+      - {speed_limit: 0}
+    - - 266
+      - 265
+      - {speed_limit: 0}
+    - - 265
+      - 267
+      - {speed_limit: 0}
+    - - 267
+      - 265
+      - {speed_limit: 0}
+    - - 267
+      - 268
+      - {speed_limit: 0}
+    - - 268
+      - 267
+      - {speed_limit: 0}
+    - - 267
+      - 269
+      - {speed_limit: 0}
+    - - 269
+      - 267
+      - {speed_limit: 0}
+    - - 269
+      - 270
+      - {speed_limit: 0}
+    - - 270
+      - 269
+      - {speed_limit: 0}
+    - - 270
+      - 271
+      - {speed_limit: 0}
+    - - 271
+      - 270
+      - {speed_limit: 0}
+    - - 271
+      - 272
+      - {speed_limit: 0}
+    - - 272
+      - 271
+      - {speed_limit: 0}
+    - - 263
+      - 273
+      - {speed_limit: 0}
+    - - 273
+      - 263
+      - {speed_limit: 0}
+    - - 273
+      - 274
+      - {speed_limit: 0}
+    - - 274
+      - 273
+      - {speed_limit: 0}
+    - - 273
+      - 275
+      - {speed_limit: 0}
+    - - 275
+      - 273
+      - {speed_limit: 0}
+    - - 275
+      - 276
+      - {speed_limit: 0}
+    - - 276
+      - 275
+      - {speed_limit: 0}
+    - - 276
+      - 277
+      - {speed_limit: 0}
+    - - 277
+      - 276
+      - {speed_limit: 0}
+    - - 277
+      - 278
+      - {speed_limit: 0}
+    - - 278
+      - 277
+      - {speed_limit: 0}
+    - - 278
+      - 279
+      - {speed_limit: 0}
+    - - 279
+      - 278
+      - {speed_limit: 0}
+    - - 279
+      - 280
+      - {speed_limit: 0}
+    - - 280
+      - 279
+      - {speed_limit: 0}
+    - - 279
+      - 281
+      - {speed_limit: 0}
+    - - 281
+      - 279
+      - {speed_limit: 0}
+    - - 281
+      - 282
+      - {speed_limit: 0}
+    - - 282
+      - 281
+      - {speed_limit: 0}
+    - - 282
+      - 283
+      - {speed_limit: 0}
+    - - 283
+      - 282
+      - {speed_limit: 0}
+    - - 283
+      - 284
+      - {speed_limit: 0}
+    - - 284
+      - 283
+      - {speed_limit: 0}
+    - - 284
+      - 285
+      - {speed_limit: 0}
+    - - 285
+      - 284
+      - {speed_limit: 0}
+    - - 285
+      - 286
+      - {speed_limit: 0}
+    - - 286
+      - 285
+      - {speed_limit: 0}
+    - - 285
+      - 287
+      - {speed_limit: 0}
+    - - 287
+      - 285
+      - {speed_limit: 0}
+    - - 287
+      - 288
+      - {speed_limit: 0}
+    - - 288
+      - 287
+      - {speed_limit: 0}
+    - - 288
+      - 289
+      - {speed_limit: 0}
+    - - 289
+      - 288
+      - {speed_limit: 0}
+    - - 289
+      - 290
+      - {speed_limit: 0}
+    - - 290
+      - 289
+      - {speed_limit: 0}
+    - - 289
+      - 291
+      - {speed_limit: 0}
+    - - 291
+      - 289
+      - {speed_limit: 0}
+    - - 291
+      - 292
+      - {speed_limit: 0}
+    - - 292
+      - 291
+      - {speed_limit: 0}
+    - - 292
+      - 293
+      - {speed_limit: 0}
+    - - 293
+      - 292
+      - {speed_limit: 0}
+    - - 293
+      - 294
+      - {speed_limit: 0}
+    - - 294
+      - 293
+      - {speed_limit: 0}
+    - - 294
+      - 295
+      - {speed_limit: 0}
+    - - 295
+      - 294
+      - {speed_limit: 0}
+    - - 295
+      - 296
+      - {speed_limit: 0}
+    - - 296
+      - 295
+      - {speed_limit: 0}
+    - - 296
+      - 297
+      - {speed_limit: 0}
+    - - 297
+      - 296
+      - {speed_limit: 0}
+    - - 297
+      - 298
+      - {speed_limit: 0}
+    - - 298
+      - 297
+      - {speed_limit: 0}
+    - - 297
+      - 299
+      - {speed_limit: 0}
+    - - 299
+      - 297
+      - {speed_limit: 0}
+    - - 299
+      - 300
+      - {speed_limit: 0}
+    - - 300
+      - 299
+      - {speed_limit: 0}
+    - - 299
+      - 291
+      - {speed_limit: 0}
+    - - 291
+      - 299
+      - {speed_limit: 0}
+    - - 291
+      - 293
+      - {speed_limit: 0}
+    - - 293
+      - 291
+      - {speed_limit: 0}
+    - - 297
+      - 292
+      - {speed_limit: 0}
+    - - 292
+      - 297
+      - {speed_limit: 0}
+    - - 296
+      - 155
+      - {speed_limit: 0}
+    - - 155
+      - 296
+      - {speed_limit: 0}
+    vertices:
+    - - 72.88005000000001
+      - -87.78640000000001
+      - {dock_name: zone_1, is_cleaning_zone: true, name: zone_1}
+    - - 83.14235000000001
+      - -79.51035000000002
+      - {name: L_3_1}
+    - - 104.51814999999999
+      - -79.55765000000001
+      - {name: L_3_2}
+    - - 102.29545000000002
+      - -82.6789
+      - {name: L_3_2_in}
+    - - 109.7146
+      - -79.4321
+      - {name: L_3_3}
+    - - 106.9252
+      - -76.76665000000001
+      - {name: L_3_3_in}
+    - - 114.37905
+      - -79.38560000000001
+      - {name: L_3_4}
+    - - 112.411
+      - -82.26795
+      - {name: L_3_4_in}
+    - - 118.71805
+      - -79.21515000000001
+      - {name: L_3_5}
+    - - 116.30060000000002
+      - -76.5652
+      - {name: L_3_5_in}
+    - - 124.3433
+      - -79.38560000000001
+      - {name: L_3_6}
+    - - 121.98785000000001
+      - -82.31445000000001
+      - {name: L_3_6_in}
+    - - 128.54285000000002
+      - -79.50955
+      - {name: L_3_7}
+    - - 125.55205000000001
+      - -76.37925
+      - {name: L_3_7_in}
+    - - 133.23835
+      - -79.50955
+      - {name: L_3_8}
+    - - 131.25475
+      - -82.22145
+      - {name: L_3_8_in}
+    - - 137.65485
+      - -79.3391
+      - {is_charger: true, is_parking_spot: true, name: L_3_9, spawn_robot_name: tb_2}
+    - - 135.43885
+      - -76.50325000000001
+      - {name: L_3_9_in}
+    - - 143.18710000000002
+      - -79.3546
+      - {name: L_3_10}
+    - - 140.80065
+      - -82.60885
+      - {name: L_3_10_in}
+    - - 147.7741
+      - -79.47855
+      - {name: L_3_11}
+    - - 144.5973
+      - -76.45675
+      - {name: L_3_11_in}
+    - - 152.40755
+      - -79.57155
+      - {name: L_3_12}
+    - - 150.48595
+      - -82.113
+      - {name: L_3_12_in}
+    - - 156.62260000000003
+      - -79.57155
+      - {name: L_3_13}
+    - - 154.36010000000002
+      - -76.96815000000001
+      - {name: L_3_13_in}
+    - - 161.39555000000001
+      - -79.44755
+      - {name: L_3_14}
+    - - 159.70640000000003
+      - -82.00450000000001
+      - {name: L_3_14_in}
+    - - 166.50940000000003
+      - -79.49405000000002
+      - {name: L_3_15}
+    - - 163.7665
+      - -76.0848
+      - {name: L_3_15_in}
+    - - 171.18935
+      - -79.63355000000001
+      - {name: L_3_16}
+    - - 169.45375
+      - -81.95800000000001
+      - {name: L_3_16_in}
+    - - 176.00875000000002
+      - -79.54055
+      - {name: L_3_17}
+    - - 173.17290000000003
+      - -76.68920000000001
+      - {name: L_3_17_in}
+    - - 180.62675000000002
+      - -79.4321
+      - {name: L_3_18}
+    - - 178.53470000000002
+      - -82.4539
+      - {name: L_3_18_in}
+    - - 198.85065
+      - -79.30810000000001
+      - {name: F_9}
+    - - 198.92815000000002
+      - -87.25785
+      - {name: F_8}
+    - - 192.74505
+      - -87.24235
+      - {name: F_8_in}
+    - - 198.7732
+      - -90.8995
+      - {name: F_7}
+    - - 208.9544
+      - -90.68255
+      - {name: F_7_in}
+    - - 198.7732
+      - -95.20755000000001
+      - {name: F_6}
+    - - 180.90565
+      - -95.11455000000001
+      - {name: L_4_19}
+    - - 178.37975
+      - -92.12375
+      - {name: L_4_19_in}
+    - - 176.02425000000002
+      - -95.13005000000001
+      - {name: L_4_18}
+    - - 174.4126
+      - -97.20660000000001
+      - {name: L_4_18_in}
+    - - 170.554
+      - -94.80465000000001
+      - {name: L_4_17}
+    - - 168.64790000000002
+      - -91.9223
+      - {name: L_4_17_in}
+    - - 166.8813
+      - -94.9751
+      - {name: L_4_16}
+    - - 164.89775
+      - -97.54755
+      - {name: L_4_16_in}
+    - - 161.31805
+      - -95.0526
+      - {name: L_4_15}
+    - - 159.05555
+      - -91.8448
+      - {name: L_4_15_in}
+    - - 157.39745000000002
+      - -95.14555000000001
+      - {name: L_4_14}
+    - - 155.10395000000003
+      - -98.1209
+      - {name: L_4_14_in}
+    - - 151.7722
+      - -95.22305
+      - {name: L_4_13}
+    - - 149.1068
+      - -92.2322
+      - {name: L_4_13_in}
+    - - 148.02200000000002
+      - -95.14555000000001
+      - {name: L_4_12}
+    - - 145.97650000000002
+      - -97.91945
+      - {name: L_4_12_in}
+    - - 142.3348
+      - -95.409
+      - {name: L_4_11}
+    - - 140.22725
+      - -92.34070000000001
+      - {name: L_4_11_in}
+    - - 138.25920000000002
+      - -95.25405
+      - {dock_name: charger_tw_1, is_charger: true, is_parking_spot: true, name: L_4_10,
+        spawn_robot_name: tw_1}
+    - - 136.70955
+      - -98.01240000000001
+      - {name: L_4_10_in}
+    - - 133.02135
+      - -95.3935
+      - {name: L_4_9}
+    - - 131.27025
+      - -92.40270000000001
+      - {name: L_4_9_in}
+    - - 129.02325000000002
+      - -95.23855
+      - {name: L_4_8}
+    - - 126.91575
+      - -97.7645
+      - {name: L_4_8_in}
+    - - 123.522
+      - -95.16105
+      - {name: L_4_7}
+    - - 121.36800000000001
+      - -92.2012
+      - {name: L_4_7_in}
+    - - 119.89580000000001
+      - -95.0836
+      - {name: L_4_6}
+    - - 117.54034999999999
+      - -98.13640000000001
+      - {name: L_4_6_in}
+    - - 114.39455000000001
+      - -95.4865
+      - {name: L_4_5}
+    - - 112.05455
+      - -92.48015000000001
+      - {name: L_4_5_in}
+    - - 109.90055000000001
+      - -95.50200000000001
+      - {name: L_4_4}
+    - - 108.3354
+      - -97.7335
+      - {name: L_4_4_in}
+    - - 104.6782
+      - -95.4555
+      - {name: L_4_3}
+    - - 102.74115
+      - -92.7281
+      - {name: L_4_3_in}
+    - - 83.52545
+      - -95.26955000000001
+      - {name: L_4_2}
+    - - 78.11715000000001
+      - -90.54310000000001
+      - {name: L_4_1}
+    - - 73.06525
+      - -104.459
+      - {name: C_3}
+    - - 77.57475
+      - -108.68955000000001
+      - {name: L_5_1}
+    - - 82.71960000000001
+      - -110.61110000000002
+      - {name: L_5_2}
+    - - 105.17410000000001
+      - -110.45615000000001
+      - {name: L_5_3}
+    - - 103.0356
+      - -113.89635000000001
+      - {name: L_5_3_in}
+    - - 109.12570000000001
+      - -110.82805000000002
+      - {name: L_5_4}
+    - - 106.5533
+      - -107.72874999999999
+      - {name: L_5_4_in}
+    - - 114.58050000000001
+      - -111.0915
+      - {name: L_5_6}
+    - - 112.53495000000001
+      - -113.81890000000001
+      - {name: L_5_6_in}
+    - - 118.98150000000001
+      - -111.01400000000001
+      - {name: L_5_7}
+    - - 116.3781
+      - -108.14715000000001
+      - {name: L_5_7_in}
+    - - 123.8474
+      - -111.02950000000001
+      - {name: L_5_8}
+    - - 122.2358
+      - -113.7569
+      - {name: L_5_8_in}
+    - - 128.74435000000003
+      - -110.90555
+      - {dock_name: '', is_cleaning_zone: false, name: zone_2_start}
+    - - 126.1099
+      - -107.97670000000001
+      - {dock_name: zone_2, is_cleaning_zone: true, is_parking_spot: false, name: zone_2}
+    - - 133.57925
+      - -110.98305
+      - {dock_name: '', is_cleaning_zone: false, name: L_5_10}
+    - - 131.1463
+      - -114.36125
+      - {name: L_5_10_in}
+    - - 138.60015
+      - -111.04500000000002
+      - {dock_name: charger_tb_1, is_charger: true, is_parking_spot: true, name: charger_tb_1,
+        spawn_robot_name: tb_1}
+    - - 135.40785000000002
+      - -107.82175000000001
+      - {name: L_5_11_in}
+    - - 142.93915
+      - -110.82805000000002
+      - {name: L_5_12}
+    - - 140.25825
+      - -113.95835
+      - {name: L_5_12_in}
+    - - 147.94455000000002
+      - -110.81255000000002
+      - {name: L_5_13}
+    - - 145.775
+      - -108.24015
+      - {name: L_5_13_in}
+    - - 152.23710000000003
+      - -110.75060000000002
+      - {name: L_5_14}
+    - - 150.16055
+      - -113.46244999999999
+      - {name: L_5_14_in}
+    - - 156.90155000000001
+      - -110.89005
+      - {name: L_5_15}
+    - - 153.9572
+      - -107.99220000000001
+      - {name: L_5_15_in}
+    - - 161.65895
+      - -110.75060000000002
+      - {name: L_5_16}
+    - - 159.48945000000003
+      - -113.72590000000001
+      - {name: L_5_16_in}
+    - - 167.00530000000003
+      - -110.87455
+      - {name: L_5_17}
+    - - 163.59605
+      - -107.74425000000002
+      - {name: L_5_17_in}
+    - - 171.17385000000002
+      - -110.98305
+      - {name: L_5_18}
+    - - 168.66340000000002
+      - -113.97385
+      - {name: L_5_18_in}
+    - - 175.93130000000002
+      - -110.96755000000002
+      - {name: L_5_19}
+    - - 172.77
+      - -107.4808
+      - {name: L_5_19_in}
+    - - 181.01415
+      - -111.0605
+      - {name: L_5_20}
+    - - 178.22475
+      - -113.63295000000001
+      - {name: L_5_20_in}
+    - - 198.72670000000002
+      - -111.2
+      - {name: F_4}
+    - - 198.6647
+      - -103.14179999999999
+      - {name: F_5}
+    - - 192.37310000000002
+      - -103.14179999999999
+      - {name: F_5_in}
+    - - 73.0847
+      - -117.03345
+      - {name: C_4}
+    - - 74.99055
+      - -122.57360000000001
+      - {name: L_6_1}
+    - - 80.70800000000001
+      - -126.67335000000001
+      - {name: L_6_2}
+    - - 105.02270000000001
+      - -126.60239999999999
+      - {name: L_6_3}
+    - - 101.81385
+      - -123.02125000000001
+      - {name: L_6_3_in}
+    - - 109.6676
+      - -126.67335000000001
+      - {name: L_6_4}
+    - - 107.87700000000001
+      - -129.1376
+      - {name: L_6_4_in}
+    - - 115.23435
+      - -126.60239999999999
+      - {name: L_6_5}
+    - - 111.70635
+      - -123.25170000000001
+      - {name: L_6_5_in}
+    - - 119.71965
+      - -126.6556
+      - {name: L_6_6}
+    - - 116.8831
+      - -129.61625
+      - {name: L_6_6_in}
+    - - 124.24045000000001
+      - -126.53150000000001
+      - {name: L_6_7}
+    - - 121.54570000000001
+      - -123.3581
+      - {name: L_6_7_in}
+    - - 128.8144
+      - -126.6556
+      - {name: L_6_8}
+    - - 126.11965000000001
+      - -129.86445
+      - {name: L_6_8_in}
+    - - 133.44155
+      - -126.62015
+      - {dock_name: '', is_cleaning_zone: false, name: L_6_9}
+    - - 131.10139999999998
+      - -124.06725
+      - {name: L_6_9_in}
+    - - 138.05100000000002
+      - -126.60239999999999
+      - {is_charger: true, is_parking_spot: true, name: L_6_10, spawn_robot_name: tw_2}
+    - - 136.04765
+      - -129.43900000000002
+      - {name: L_6_10_in}
+    - - 142.14625
+      - -126.56695
+      - {name: L_6_11}
+    - - 140.05429999999998
+      - -124.13815
+      - {name: L_6_11_in}
+    - - 147.16344999999998
+      - -126.60239999999999
+      - {name: L_6_12}
+    - - 145.49695
+      - -129.08440000000002
+      - {name: L_6_12_in}
+    - - 151.9147
+      - -126.53150000000001
+      - {name: L_6_13}
+    - - 149.1845
+      - -123.6772
+      - {name: L_6_13_in}
+    - - 157.1801
+      - -126.56695
+      - {name: L_6_14}
+    - - 155.21220000000002
+      - -129.08440000000002
+      - {name: L_6_14_in}
+    - - 161.98450000000003
+      - -126.44285
+      - {name: L_6_15}
+    - - 159.16570000000002
+      - -123.76585
+      - {name: L_6_15_in}
+    - - 166.89530000000002
+      - -126.44285
+      - {name: L_6_16}
+    - - 164.4488
+      - -129.22625000000002
+      - {name: L_6_16_in}
+    - - 170.9729
+      - -126.51375000000002
+      - {name: L_6_17}
+    - - 167.99450000000002
+      - -123.28715
+      - {name: L_6_17_in}
+    - - 176.02555
+      - -126.4606
+      - {name: L_6_18}
+    - - 173.93355
+      - -128.90709999999999
+      - {name: L_6_18_in}
+    - - 181.18455
+      - -126.49605
+      - {name: L_6_19}
+    - - 178.1884
+      - -123.58855000000001
+      - {name: L_6_19_in}
+    - - 198.57625000000002
+      - -126.86835000000002
+      - {name: F_1}
+    - - 198.45215000000002
+      - -122.09935000000002
+      - {name: F_2}
+    - - 201.0937
+      - -122.1348
+      - {name: F_2_in}
+    - - 198.52305
+      - -119.97194999999999
+      - {name: F_3}
+    - - 192.06985
+      - -119.93650000000001
+      - {name: F_3_in}
+    - - 73.2506
+      - -70.09505
+      - {name: C_1}
+    - - 77.34985
+      - -65.3615
+      - {name: L_2_1}
+    - - 83.35175000000001
+      - -63.2577
+      - {name: L_2_2}
+    - - 104.97725000000001
+      - -63.412400000000005
+      - {name: L_2_3}
+    - - 102.1619
+      - -60.22580000000001
+      - {name: L_2_3_in}
+    - - 110.02010000000001
+      - -63.412400000000005
+      - {name: L_2_4}
+    - - 107.21815
+      - -67.7021
+      - {name: L_2_4_in}
+    - - 114.21945000000001
+      - -63.4728
+      - {name: L_2_5}
+    - - 111.7484
+      - -60.114700000000006
+      - {name: L_2_5_in}
+    - - 119.66845
+      - -63.48865
+      - {name: L_2_6}
+    - - 117.56175000000002
+      - -66.68835
+      - {name: L_2_6_in}
+    - - 124.26210000000002
+      - -63.71040000000001
+      - {name: L_2_7}
+    - - 120.508
+      - -60.114700000000006
+      - {name: L_2_7_in}
+    - - 129.483
+      - -63.96385000000001
+      - {name: L_2_8}
+    - - 126.4924
+      - -66.3842
+      - {name: L_2_8_in}
+    - - 133.9943
+      - -63.69775
+      - {name: L_2_9}
+    - - 130.3067
+      - -60.36495
+      - {name: L_2_9_in}
+    - - 138.0747
+      - -63.4823
+      - {is_charger: true, is_parking_spot: true, name: L_2_10, spawn_robot_name: tw_3}
+    - - 135.8951
+      - -66.91645
+      - {name: L_2_10_in}
+    - - 142.95345
+      - -63.495000000000005
+      - {name: L_2_11}
+    - - 140.10225
+      - -60.212900000000005
+      - {name: L_2_11_in}
+    - - 147.9463
+      - -63.5203
+      - {name: L_2_12}
+    - - 145.1584
+      - -66.40955000000001
+      - {name: L_2_12_in}
+    - - 151.77325000000002
+      - -63.3429
+      - {name: L_2_13}
+    - - 149.37825
+      - -60.6311
+      - {name: L_2_13_in}
+    - - 157.18425000000002
+      - -63.5203
+      - {name: L_2_14}
+    - - 154.61180000000002
+      - -66.625
+      - {name: L_2_14_in}
+    - - 161.65750000000003
+      - -63.54565
+      - {name: L_2_15}
+    - - 159.08505000000002
+      - -60.73245
+      - {name: L_2_15_in}
+    - - 166.27015
+      - -63.55835
+      - {name: L_2_16}
+    - - 164.80020000000002
+      - -65.87735
+      - {name: L_2_16_in}
+    - - 170.98415
+      - -63.54565
+      - {name: L_2_17}
+    - - 168.36105
+      - -60.846500000000006
+      - {name: L_2_17_in}
+    - - 176.66125
+      - -63.6597
+      - {name: L_2_18}
+    - - 173.75935
+      - -66.70100000000001
+      - {name: L_2_18_in}
+    - - 180.8684
+      - -63.15285
+      - {name: L_2_19}
+    - - 178.29595
+      - -60.149550000000005
+      - {name: L_2_19_in}
+    - - 198.85015
+      - -63.102149999999995
+      - {name: F_12}
+    - - 198.9642
+      - -68.00625000000001
+      - {name: F_11}
+    - - 202.05615
+      - -67.8922
+      - {name: F_11_in}
+    - - 198.9135
+      - -71.52910000000001
+      - {name: F_10}
+    - - 192.62810000000002
+      - -71.3897
+      - {name: F_10_in}
+    - - 198.81955000000002
+      - -59.623900000000006
+      - {name: F_13}
+    - - 203.99995
+      - -59.8752
+      - {name: F_13_in}
+    - - 198.8389
+      - -54.83015
+      - {name: F_14}
+    - - 191.7062
+      - -55.15875
+      - {name: F_14_in}
+    - - 198.7809
+      - -47.34955
+      - {name: F_15}
+    - - 198.8389
+      - -44.856
+      - {name: F_16}
+    - - 208.50375
+      - -44.952650000000006
+      - {name: F_16_in}
+    - - 198.7333
+      - -29.88895
+      - {name: F_17}
+    - - 181.3351
+      - -47.231700000000004
+      - {name: L_1_20}
+    - - 178.8916
+      - -50.65485
+      - {name: L_1_20_in}
+    - - 175.04055000000002
+      - -47.26545
+      - {name: L_1_19}
+    - - 173.21640000000002
+      - -44.91205
+      - {name: L_1_19_in}
+    - - 171.34715000000003
+      - -47.26545
+      - {name: L_1_18}
+    - - 169.1739
+      - -50.2945
+      - {name: L_1_18_in}
+    - - 165.77325000000002
+      - -47.58075
+      - {name: L_1_17}
+    - - 164.1405
+      - -45.39625
+      - {name: L_1_17_in}
+    - - 162.16995
+      - -47.4794
+      - {name: L_1_16}
+    - - 159.4787
+      - -50.75620000000001
+      - {name: L_1_16_in}
+    - - 155.729
+      - -47.423100000000005
+      - {name: L_1_15}
+    - - 154.62550000000002
+      - -45.47505
+      - {name: L_1_15_in}
+    - - 151.87795000000003
+      - -47.310500000000005
+      - {name: L_1_14}
+    - - 150.6731
+      - -50.181900000000006
+      - {name: L_1_14_in}
+    - - 146.8333
+      - -47.3218
+      - {name: L_1_13}
+    - - 145.36945
+      - -44.698100000000004
+      - {name: L_1_13_in}
+    - - 142.92595
+      - -47.63705
+      - {name: L_1_12}
+    - - 140.79770000000002
+      - -50.39585
+      - {name: L_1_12_in}
+    - - 137.5322
+      - -47.61455000000001
+      - {is_charger: true, is_parking_spot: true, name: L_1_11, spawn_robot_name: tb_3}
+    - - 136.1922
+      - -45.47505
+      - {name: L_1_11_in}
+    - - 133.55730000000003
+      - -47.592000000000006
+      - {name: L_1_10}
+    - - 131.3953
+      - -50.4972
+      - {name: L_1_10_in}
+    - - 127.62304999999999
+      - -47.55825
+      - {name: L_1_9}
+    - - 126.20425
+      - -44.574250000000006
+      - {name: L_1_9_in}
+    - - 124.27875
+      - -47.6258
+      - {name: L_1_8}
+    - - 122.16175000000001
+      - -50.51975
+      - {name: L_1_8_in}
+    - - 118.68230000000001
+      - -47.4794
+      - {name: L_1_7}
+    - - 116.5203
+      - -44.563
+      - {name: L_1_7_in}
+    - - 114.77494999999999
+      - -47.29925
+      - {name: L_1_6}
+    - - 112.75935
+      - -50.3508
+      - {name: L_1_6_in}
+    - - 108.6155
+      - -47.46815000000001
+      - {name: L_1_5}
+    - - 106.62245000000001
+      - -44.48415
+      - {name: L_1_5_in}
+    - - 105.42885000000001
+      - -47.535700000000006
+      - {name: L_1_4}
+    - - 103.21055
+      - -50.3621
+      - {name: L_1_4_in}
+    - - 83.14450000000001
+      - -47.547000000000004
+      - {name: L_1_3}
+    - - 76.44460000000001
+      - -50.83500000000001
+      - {name: L_1_2}
+    - - 73.32545
+      - -55.564400000000006
+      - {name: L_1_1}
+    - - 48.8133
+      - -70.0636
+      - {name: A_2}
+    - - 48.65605
+      - -51.63345000000001
+      - {name: A_1}
+    - - 49.091300000000004
+      - -74.23275
+      - {name: A_3}
+    - - 45.588950000000004
+      - -74.29310000000001
+      - {name: A_3_in}
+    - - 49.00275
+      - -82.47735
+      - {name: A_4}
+    - - 39.486000000000004
+      - -82.0587
+      - {name: A_4_in}
+    - - 49.1155
+      - -87.56585000000001
+      - {name: A_5}
+    - - 58.406800000000004
+      - -87.51755000000001
+      - {name: B_2}
+    - - 58.35850000000001
+      - -84.71565000000001
+      - {name: B_1}
+    - - 71.30515000000001
+      - -84.73175
+      - {name: B_5}
+    - - 71.0314
+      - -90.36775
+      - {name: B_4}
+    - - 58.22965000000001
+      - -90.46435000000001
+      - {name: B_3}
+    - - 64.18769999999999
+      - -87.42095
+      - {dock_name: '', is_cleaning_zone: false, name: B_6}
+    - - 48.5693
+      - -104.61445000000002
+      - {name: A_6}
+    - - 48.1989
+      - -127.56040000000002
+      - {name: A_7}
+    - - 50.385000000000005
+      - -127.29020000000001
+      - {name: A_7_in}
+    - - 47.78135
+      - -136.6781
+      - {name: D_8}
+    - - 38.36885
+      - -136.0886
+      - {name: D_7}
+    - - 26.991300000000003
+      - -142.2195
+      - {name: D_6}
+    - - 28.976
+      - -150.2368
+      - {name: D_6_in}
+    - - 14.9064
+      - -140.45095
+      - {name: D_5}
+    - - 10.09205
+      - -148.90060000000003
+      - {name: D_5_in}
+    - - 8.7362
+      - -137.28730000000002
+      - {name: D_4}
+    - - 3.4109499999999997
+      - -130.86165000000003
+      - {name: D_3}
+    - - 1.5049000000000001
+      - -122.54955000000001
+      - {name: D_2}
+    - - 2.0158
+      - -115.49510000000001
+      - {name: D_1}
+    - - 56.81855000000001
+      - -141.1844
+      - {name: D_9}
+    - - 53.49915
+      - -151.03885
+      - {name: D_9_in}
+    - - 68.4154
+      - -143.62390000000002
+      - {name: D_10}
+    - - 77.85725000000001
+      - -155.6791
+      - {name: D_11}
+    - - 81.56655
+      - -162.23360000000002
+      - {name: D_12}
+    - - 89.97565
+      - -167.43925000000002
+      - {name: D_13}
+    - - 111.3463
+      - -175.53225
+      - {name: D_14}
+    - - 108.19195
+      - -184.2224
+      - {name: D_14_in}
+    - - 131.5437
+      - -182.64880000000002
+      - {name: D_15}
+    - - 144.86345
+      - -187.2854
+      - {name: D_16}
+    - - 152.001
+      - -173.17885
+      - {name: D_17}
+    - - 160.71225
+      - -168.5703
+      - {name: D_18}
+    - - 173.751
+      - -167.6149
+      - {name: D_19}
+    - - 175.80235000000002
+      - -160.30870000000002
+      - {name: D_19_in}
+    - - 178.41570000000002
+      - -170.70595000000003
+      - {name: D_20}
+    - - 191.06105000000002
+      - -167.362
+      - {name: D_21}
+    - - 198.81685000000002
+      - -156.4589
+      - {name: D_22}
+    - - 201.20540000000003
+      - -156.3465
+      - {name: D_22_in}
+    - - 198.90115000000003
+      - -150.83875
+      - {name: E_1}
+    - - 210.78775000000002
+      - -151.06355000000002
+      - {name: E_2}
+    - - 210.78775000000002
+      - -140.8349
+      - {name: E_3}
+    - - 207.19085
+      - -140.7225
+      - {name: E_4}
+    - - 207.30325
+      - -135.74865
+      - {name: E_5}
+    - - 198.73255
+      - -135.49575000000002
+      - {name: E_6}
+    - - 198.5466
+      - -140.82745
+      - {name: E_7}
+    - - 196.0322
+      - -140.7995
+      - {name: E_7_in}
+    - - 198.5326
+      - -146.9738
+      - {name: E_8}
+    - - 192.44215
+      - -147.0995
+      - {name: E_9}

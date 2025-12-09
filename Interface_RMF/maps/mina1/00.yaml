@@ -1,0 +1,2786 @@
+building_name: mina_with_stones_nav
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 0
+      - {speed_limit: 0}
+    - - 1
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 1
+      - {speed_limit: 0}
+    - - 2
+      - 3
+      - {speed_limit: 0}
+    - - 3
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 2
+      - {speed_limit: 0}
+    - - 4
+      - 5
+      - {speed_limit: 0}
+    - - 5
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 4
+      - {speed_limit: 0}
+    - - 6
+      - 7
+      - {speed_limit: 0}
+    - - 7
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 6
+      - {speed_limit: 0}
+    - - 8
+      - 9
+      - {speed_limit: 0}
+    - - 9
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 8
+      - {speed_limit: 0}
+    - - 10
+      - 11
+      - {speed_limit: 0}
+    - - 11
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 10
+      - {speed_limit: 0}
+    - - 12
+      - 13
+      - {speed_limit: 0}
+    - - 13
+      - 12
+      - {speed_limit: 0}
+    - - 12
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 12
+      - {speed_limit: 0}
+    - - 14
+      - 15
+      - {speed_limit: 0}
+    - - 15
+      - 14
+      - {speed_limit: 0}
+    - - 14
+      - 16
+      - {speed_limit: 0}
+    - - 16
+      - 14
+      - {speed_limit: 0}
+    - - 16
+      - 17
+      - {speed_limit: 0}
+    - - 17
+      - 16
+      - {speed_limit: 0}
+    - - 16
+      - 18
+      - {speed_limit: 0}
+    - - 18
+      - 16
+      - {speed_limit: 0}
+    - - 18
+      - 19
+      - {speed_limit: 0}
+    - - 19
+      - 18
+      - {speed_limit: 0}
+    - - 18
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 18
+      - {speed_limit: 0}
+    - - 20
+      - 21
+      - {speed_limit: 0}
+    - - 21
+      - 20
+      - {speed_limit: 0}
+    - - 20
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 20
+      - {speed_limit: 0}
+    - - 22
+      - 23
+      - {speed_limit: 0}
+    - - 23
+      - 22
+      - {speed_limit: 0}
+    - - 22
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 22
+      - {speed_limit: 0}
+    - - 24
+      - 25
+      - {speed_limit: 0}
+    - - 25
+      - 24
+      - {speed_limit: 0}
+    - - 24
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 24
+      - {speed_limit: 0}
+    - - 26
+      - 27
+      - {speed_limit: 0}
+    - - 27
+      - 26
+      - {speed_limit: 0}
+    - - 26
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 26
+      - {speed_limit: 0}
+    - - 28
+      - 29
+      - {speed_limit: 0}
+    - - 29
+      - 28
+      - {speed_limit: 0}
+    - - 28
+      - 30
+      - {speed_limit: 0}
+    - - 30
+      - 28
+      - {speed_limit: 0}
+    - - 30
+      - 31
+      - {speed_limit: 0}
+    - - 31
+      - 30
+      - {speed_limit: 0}
+    - - 30
+      - 32
+      - {speed_limit: 0}
+    - - 32
+      - 30
+      - {speed_limit: 0}
+    - - 32
+      - 33
+      - {speed_limit: 0}
+    - - 33
+      - 32
+      - {speed_limit: 0}
+    - - 32
+      - 34
+      - {speed_limit: 0}
+    - - 34
+      - 32
+      - {speed_limit: 0}
+    - - 34
+      - 35
+      - {speed_limit: 0}
+    - - 35
+      - 34
+      - {speed_limit: 0}
+    - - 34
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 34
+      - {speed_limit: 0}
+    - - 36
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 36
+      - {speed_limit: 0}
+    - - 37
+      - 38
+      - {speed_limit: 0}
+    - - 38
+      - 37
+      - {speed_limit: 0}
+    - - 37
+      - 39
+      - {speed_limit: 0}
+    - - 39
+      - 37
+      - {speed_limit: 0}
+    - - 39
+      - 40
+      - {speed_limit: 0}
+    - - 40
+      - 39
+      - {speed_limit: 0}
+    - - 39
+      - 41
+      - {speed_limit: 0}
+    - - 41
+      - 39
+      - {speed_limit: 0}
+    - - 41
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 41
+      - {speed_limit: 0}
+    - - 42
+      - 43
+      - {speed_limit: 0}
+    - - 43
+      - 42
+      - {speed_limit: 0}
+    - - 42
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 42
+      - {speed_limit: 0}
+    - - 44
+      - 45
+      - {speed_limit: 0}
+    - - 45
+      - 44
+      - {speed_limit: 0}
+    - - 44
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 44
+      - {speed_limit: 0}
+    - - 46
+      - 47
+      - {speed_limit: 0}
+    - - 47
+      - 46
+      - {speed_limit: 0}
+    - - 46
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 46
+      - {speed_limit: 0}
+    - - 48
+      - 49
+      - {speed_limit: 0}
+    - - 49
+      - 48
+      - {speed_limit: 0}
+    - - 48
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 48
+      - {speed_limit: 0}
+    - - 50
+      - 51
+      - {speed_limit: 0}
+    - - 51
+      - 50
+      - {speed_limit: 0}
+    - - 50
+      - 52
+      - {speed_limit: 0}
+    - - 52
+      - 50
+      - {speed_limit: 0}
+    - - 52
+      - 53
+      - {speed_limit: 0}
+    - - 53
+      - 52
+      - {speed_limit: 0}
+    - - 52
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 52
+      - {speed_limit: 0}
+    - - 54
+      - 55
+      - {speed_limit: 0}
+    - - 55
+      - 54
+      - {speed_limit: 0}
+    - - 54
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 54
+      - {speed_limit: 0}
+    - - 56
+      - 57
+      - {speed_limit: 0}
+    - - 57
+      - 56
+      - {speed_limit: 0}
+    - - 56
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 56
+      - {speed_limit: 0}
+    - - 58
+      - 59
+      - {speed_limit: 0}
+    - - 59
+      - 58
+      - {speed_limit: 0}
+    - - 58
+      - 60
+      - {speed_limit: 0}
+    - - 60
+      - 58
+      - {speed_limit: 0}
+    - - 60
+      - 61
+      - {speed_limit: 0}
+    - - 61
+      - 60
+      - {speed_limit: 0}
+    - - 60
+      - 62
+      - {speed_limit: 0}
+    - - 62
+      - 60
+      - {speed_limit: 0}
+    - - 62
+      - 63
+      - {speed_limit: 0}
+    - - 63
+      - 62
+      - {speed_limit: 0}
+    - - 62
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 62
+      - {speed_limit: 0}
+    - - 64
+      - 65
+      - {speed_limit: 0}
+    - - 65
+      - 64
+      - {speed_limit: 0}
+    - - 64
+      - 66
+      - {speed_limit: 0}
+    - - 66
+      - 64
+      - {speed_limit: 0}
+    - - 66
+      - 67
+      - {speed_limit: 0}
+    - - 67
+      - 66
+      - {speed_limit: 0}
+    - - 66
+      - 68
+      - {speed_limit: 0}
+    - - 68
+      - 66
+      - {speed_limit: 0}
+    - - 68
+      - 69
+      - {speed_limit: 0}
+    - - 69
+      - 68
+      - {speed_limit: 0}
+    - - 68
+      - 70
+      - {speed_limit: 0}
+    - - 70
+      - 68
+      - {speed_limit: 0}
+    - - 70
+      - 71
+      - {speed_limit: 0}
+    - - 71
+      - 70
+      - {speed_limit: 0}
+    - - 70
+      - 72
+      - {speed_limit: 0}
+    - - 72
+      - 70
+      - {speed_limit: 0}
+    - - 72
+      - 73
+      - {speed_limit: 0}
+    - - 73
+      - 72
+      - {speed_limit: 0}
+    - - 72
+      - 74
+      - {speed_limit: 0}
+    - - 74
+      - 72
+      - {speed_limit: 0}
+    - - 74
+      - 75
+      - {speed_limit: 0}
+    - - 75
+      - 74
+      - {speed_limit: 0}
+    - - 74
+      - 76
+      - {speed_limit: 0}
+    - - 76
+      - 74
+      - {speed_limit: 0}
+    - - 76
+      - 77
+      - {speed_limit: 0}
+    - - 77
+      - 76
+      - {speed_limit: 0}
+    - - 77
+      - 0
+      - {speed_limit: 0}
+    - - 0
+      - 77
+      - {speed_limit: 0}
+    - - 0
+      - 78
+      - {speed_limit: 0}
+    - - 78
+      - 0
+      - {speed_limit: 0}
+    - - 78
+      - 79
+      - {speed_limit: 0}
+    - - 79
+      - 78
+      - {speed_limit: 0}
+    - - 79
+      - 80
+      - {speed_limit: 0}
+    - - 80
+      - 79
+      - {speed_limit: 0}
+    - - 80
+      - 81
+      - {speed_limit: 0}
+    - - 81
+      - 80
+      - {speed_limit: 0}
+    - - 81
+      - 82
+      - {speed_limit: 0}
+    - - 82
+      - 81
+      - {speed_limit: 0}
+    - - 81
+      - 83
+      - {speed_limit: 0}
+    - - 83
+      - 81
+      - {speed_limit: 0}
+    - - 83
+      - 84
+      - {speed_limit: 0}
+    - - 84
+      - 83
+      - {speed_limit: 0}
+    - - 83
+      - 85
+      - {speed_limit: 0}
+    - - 85
+      - 83
+      - {speed_limit: 0}
+    - - 85
+      - 86
+      - {speed_limit: 0}
+    - - 86
+      - 85
+      - {speed_limit: 0}
+    - - 85
+      - 87
+      - {speed_limit: 0}
+    - - 87
+      - 85
+      - {speed_limit: 0}
+    - - 87
+      - 88
+      - {speed_limit: 0}
+    - - 88
+      - 87
+      - {speed_limit: 0}
+    - - 87
+      - 89
+      - {speed_limit: 0}
+    - - 89
+      - 87
+      - {speed_limit: 0}
+    - - 89
+      - 90
+      - {speed_limit: 0}
+    - - 90
+      - 89
+      - {speed_limit: 0}
+    - - 89
+      - 91
+      - {speed_limit: 0}
+    - - 91
+      - 89
+      - {speed_limit: 0}
+    - - 91
+      - 92
+      - {speed_limit: 0}
+    - - 92
+      - 91
+      - {speed_limit: 0}
+    - - 91
+      - 93
+      - {speed_limit: 0}
+    - - 93
+      - 91
+      - {speed_limit: 0}
+    - - 93
+      - 94
+      - {speed_limit: 0}
+    - - 94
+      - 93
+      - {speed_limit: 0}
+    - - 93
+      - 95
+      - {speed_limit: 0}
+    - - 95
+      - 93
+      - {speed_limit: 0}
+    - - 95
+      - 96
+      - {speed_limit: 0}
+    - - 96
+      - 95
+      - {speed_limit: 0}
+    - - 95
+      - 97
+      - {speed_limit: 0}
+    - - 97
+      - 95
+      - {speed_limit: 0}
+    - - 97
+      - 98
+      - {speed_limit: 0}
+    - - 98
+      - 97
+      - {speed_limit: 0}
+    - - 97
+      - 99
+      - {speed_limit: 0}
+    - - 99
+      - 97
+      - {speed_limit: 0}
+    - - 99
+      - 100
+      - {speed_limit: 0}
+    - - 100
+      - 99
+      - {speed_limit: 0}
+    - - 99
+      - 101
+      - {speed_limit: 0}
+    - - 101
+      - 99
+      - {speed_limit: 0}
+    - - 101
+      - 102
+      - {speed_limit: 0}
+    - - 102
+      - 101
+      - {speed_limit: 0}
+    - - 101
+      - 103
+      - {speed_limit: 0}
+    - - 103
+      - 101
+      - {speed_limit: 0}
+    - - 103
+      - 104
+      - {speed_limit: 0}
+    - - 104
+      - 103
+      - {speed_limit: 0}
+    - - 103
+      - 105
+      - {speed_limit: 0}
+    - - 105
+      - 103
+      - {speed_limit: 0}
+    - - 105
+      - 106
+      - {speed_limit: 0}
+    - - 106
+      - 105
+      - {speed_limit: 0}
+    - - 105
+      - 107
+      - {speed_limit: 0}
+    - - 107
+      - 105
+      - {speed_limit: 0}
+    - - 107
+      - 108
+      - {speed_limit: 0}
+    - - 108
+      - 107
+      - {speed_limit: 0}
+    - - 107
+      - 109
+      - {speed_limit: 0}
+    - - 109
+      - 107
+      - {speed_limit: 0}
+    - - 109
+      - 110
+      - {speed_limit: 0}
+    - - 110
+      - 109
+      - {speed_limit: 0}
+    - - 109
+      - 111
+      - {speed_limit: 0}
+    - - 111
+      - 109
+      - {speed_limit: 0}
+    - - 111
+      - 112
+      - {speed_limit: 0}
+    - - 112
+      - 111
+      - {speed_limit: 0}
+    - - 111
+      - 113
+      - {speed_limit: 0}
+    - - 113
+      - 111
+      - {speed_limit: 0}
+    - - 113
+      - 114
+      - {speed_limit: 0}
+    - - 114
+      - 113
+      - {speed_limit: 0}
+    - - 113
+      - 115
+      - {speed_limit: 0}
+    - - 115
+      - 113
+      - {speed_limit: 0}
+    - - 115
+      - 116
+      - {speed_limit: 0}
+    - - 116
+      - 115
+      - {speed_limit: 0}
+    - - 116
+      - 117
+      - {speed_limit: 0}
+    - - 117
+      - 116
+      - {speed_limit: 0}
+    - - 116
+      - 41
+      - {speed_limit: 0}
+    - - 41
+      - 116
+      - {speed_limit: 0}
+    - - 78
+      - 118
+      - {speed_limit: 0}
+    - - 118
+      - 78
+      - {speed_limit: 0}
+    - - 118
+      - 119
+      - {speed_limit: 0}
+    - - 119
+      - 118
+      - {speed_limit: 0}
+    - - 119
+      - 120
+      - {speed_limit: 0}
+    - - 120
+      - 119
+      - {speed_limit: 0}
+    - - 120
+      - 121
+      - {speed_limit: 0}
+    - - 121
+      - 120
+      - {speed_limit: 0}
+    - - 121
+      - 122
+      - {speed_limit: 0}
+    - - 122
+      - 121
+      - {speed_limit: 0}
+    - - 121
+      - 123
+      - {speed_limit: 0}
+    - - 123
+      - 121
+      - {speed_limit: 0}
+    - - 123
+      - 124
+      - {speed_limit: 0}
+    - - 124
+      - 123
+      - {speed_limit: 0}
+    - - 123
+      - 125
+      - {speed_limit: 0}
+    - - 125
+      - 123
+      - {speed_limit: 0}
+    - - 125
+      - 126
+      - {speed_limit: 0}
+    - - 126
+      - 125
+      - {speed_limit: 0}
+    - - 125
+      - 127
+      - {speed_limit: 0}
+    - - 127
+      - 125
+      - {speed_limit: 0}
+    - - 127
+      - 128
+      - {speed_limit: 0}
+    - - 128
+      - 127
+      - {speed_limit: 0}
+    - - 127
+      - 129
+      - {speed_limit: 0}
+    - - 129
+      - 127
+      - {speed_limit: 0}
+    - - 129
+      - 130
+      - {speed_limit: 0}
+    - - 130
+      - 129
+      - {speed_limit: 0}
+    - - 129
+      - 131
+      - {speed_limit: 0}
+    - - 131
+      - 129
+      - {speed_limit: 0}
+    - - 131
+      - 132
+      - {speed_limit: 0}
+    - - 132
+      - 131
+      - {speed_limit: 0}
+    - - 131
+      - 133
+      - {speed_limit: 0}
+    - - 133
+      - 131
+      - {speed_limit: 0}
+    - - 133
+      - 134
+      - {speed_limit: 0}
+    - - 134
+      - 133
+      - {speed_limit: 0}
+    - - 133
+      - 135
+      - {speed_limit: 0}
+    - - 135
+      - 133
+      - {speed_limit: 0}
+    - - 135
+      - 136
+      - {speed_limit: 0}
+    - - 136
+      - 135
+      - {speed_limit: 0}
+    - - 135
+      - 137
+      - {speed_limit: 0}
+    - - 137
+      - 135
+      - {speed_limit: 0}
+    - - 137
+      - 138
+      - {speed_limit: 0}
+    - - 138
+      - 137
+      - {speed_limit: 0}
+    - - 137
+      - 139
+      - {speed_limit: 0}
+    - - 139
+      - 137
+      - {speed_limit: 0}
+    - - 139
+      - 140
+      - {speed_limit: 0}
+    - - 140
+      - 139
+      - {speed_limit: 0}
+    - - 139
+      - 141
+      - {speed_limit: 0}
+    - - 141
+      - 139
+      - {speed_limit: 0}
+    - - 141
+      - 142
+      - {speed_limit: 0}
+    - - 142
+      - 141
+      - {speed_limit: 0}
+    - - 141
+      - 143
+      - {speed_limit: 0}
+    - - 143
+      - 141
+      - {speed_limit: 0}
+    - - 143
+      - 144
+      - {speed_limit: 0}
+    - - 144
+      - 143
+      - {speed_limit: 0}
+    - - 143
+      - 145
+      - {speed_limit: 0}
+    - - 145
+      - 143
+      - {speed_limit: 0}
+    - - 145
+      - 146
+      - {speed_limit: 0}
+    - - 146
+      - 145
+      - {speed_limit: 0}
+    - - 145
+      - 147
+      - {speed_limit: 0}
+    - - 147
+      - 145
+      - {speed_limit: 0}
+    - - 147
+      - 148
+      - {speed_limit: 0}
+    - - 148
+      - 147
+      - {speed_limit: 0}
+    - - 147
+      - 149
+      - {speed_limit: 0}
+    - - 149
+      - 147
+      - {speed_limit: 0}
+    - - 149
+      - 150
+      - {speed_limit: 0}
+    - - 150
+      - 149
+      - {speed_limit: 0}
+    - - 149
+      - 151
+      - {speed_limit: 0}
+    - - 151
+      - 149
+      - {speed_limit: 0}
+    - - 151
+      - 152
+      - {speed_limit: 0}
+    - - 152
+      - 151
+      - {speed_limit: 0}
+    - - 151
+      - 153
+      - {speed_limit: 0}
+    - - 153
+      - 151
+      - {speed_limit: 0}
+    - - 153
+      - 154
+      - {speed_limit: 0}
+    - - 154
+      - 153
+      - {speed_limit: 0}
+    - - 153
+      - 155
+      - {speed_limit: 0}
+    - - 155
+      - 153
+      - {speed_limit: 0}
+    - - 155
+      - 156
+      - {speed_limit: 0}
+    - - 156
+      - 155
+      - {speed_limit: 0}
+    - - 156
+      - 157
+      - {speed_limit: 0}
+    - - 157
+      - 156
+      - {speed_limit: 0}
+    - - 156
+      - 158
+      - {speed_limit: 0}
+    - - 158
+      - 156
+      - {speed_limit: 0}
+    - - 158
+      - 159
+      - {speed_limit: 0}
+    - - 159
+      - 158
+      - {speed_limit: 0}
+    - - 158
+      - 115
+      - {speed_limit: 0}
+    - - 115
+      - 158
+      - {speed_limit: 0}
+    - - 0
+      - 160
+      - {speed_limit: 0}
+    - - 160
+      - 0
+      - {speed_limit: 0}
+    - - 160
+      - 161
+      - {speed_limit: 0}
+    - - 161
+      - 160
+      - {speed_limit: 0}
+    - - 161
+      - 162
+      - {speed_limit: 0}
+    - - 162
+      - 161
+      - {speed_limit: 0}
+    - - 162
+      - 163
+      - {speed_limit: 0}
+    - - 163
+      - 162
+      - {speed_limit: 0}
+    - - 163
+      - 164
+      - {speed_limit: 0}
+    - - 164
+      - 163
+      - {speed_limit: 0}
+    - - 163
+      - 165
+      - {speed_limit: 0}
+    - - 165
+      - 163
+      - {speed_limit: 0}
+    - - 165
+      - 166
+      - {speed_limit: 0}
+    - - 166
+      - 165
+      - {speed_limit: 0}
+    - - 165
+      - 167
+      - {speed_limit: 0}
+    - - 167
+      - 165
+      - {speed_limit: 0}
+    - - 167
+      - 168
+      - {speed_limit: 0}
+    - - 168
+      - 167
+      - {speed_limit: 0}
+    - - 167
+      - 169
+      - {speed_limit: 0}
+    - - 169
+      - 167
+      - {speed_limit: 0}
+    - - 169
+      - 170
+      - {speed_limit: 0}
+    - - 170
+      - 169
+      - {speed_limit: 0}
+    - - 169
+      - 171
+      - {speed_limit: 0}
+    - - 171
+      - 169
+      - {speed_limit: 0}
+    - - 171
+      - 172
+      - {speed_limit: 0}
+    - - 172
+      - 171
+      - {speed_limit: 0}
+    - - 171
+      - 173
+      - {speed_limit: 0}
+    - - 173
+      - 171
+      - {speed_limit: 0}
+    - - 173
+      - 174
+      - {speed_limit: 0}
+    - - 174
+      - 173
+      - {speed_limit: 0}
+    - - 173
+      - 175
+      - {speed_limit: 0}
+    - - 175
+      - 173
+      - {speed_limit: 0}
+    - - 175
+      - 176
+      - {speed_limit: 0}
+    - - 176
+      - 175
+      - {speed_limit: 0}
+    - - 175
+      - 177
+      - {speed_limit: 0}
+    - - 177
+      - 175
+      - {speed_limit: 0}
+    - - 177
+      - 178
+      - {speed_limit: 0}
+    - - 178
+      - 177
+      - {speed_limit: 0}
+    - - 177
+      - 179
+      - {speed_limit: 0}
+    - - 179
+      - 177
+      - {speed_limit: 0}
+    - - 179
+      - 180
+      - {speed_limit: 0}
+    - - 180
+      - 179
+      - {speed_limit: 0}
+    - - 179
+      - 181
+      - {speed_limit: 0}
+    - - 181
+      - 179
+      - {speed_limit: 0}
+    - - 181
+      - 182
+      - {speed_limit: 0}
+    - - 182
+      - 181
+      - {speed_limit: 0}
+    - - 181
+      - 183
+      - {speed_limit: 0}
+    - - 183
+      - 181
+      - {speed_limit: 0}
+    - - 183
+      - 184
+      - {speed_limit: 0}
+    - - 184
+      - 183
+      - {speed_limit: 0}
+    - - 183
+      - 185
+      - {speed_limit: 0}
+    - - 185
+      - 183
+      - {speed_limit: 0}
+    - - 185
+      - 186
+      - {speed_limit: 0}
+    - - 186
+      - 185
+      - {speed_limit: 0}
+    - - 185
+      - 187
+      - {speed_limit: 0}
+    - - 187
+      - 185
+      - {speed_limit: 0}
+    - - 187
+      - 188
+      - {speed_limit: 0}
+    - - 188
+      - 187
+      - {speed_limit: 0}
+    - - 187
+      - 189
+      - {speed_limit: 0}
+    - - 189
+      - 187
+      - {speed_limit: 0}
+    - - 189
+      - 190
+      - {speed_limit: 0}
+    - - 190
+      - 189
+      - {speed_limit: 0}
+    - - 189
+      - 191
+      - {speed_limit: 0}
+    - - 191
+      - 189
+      - {speed_limit: 0}
+    - - 191
+      - 192
+      - {speed_limit: 0}
+    - - 192
+      - 191
+      - {speed_limit: 0}
+    - - 191
+      - 193
+      - {speed_limit: 0}
+    - - 193
+      - 191
+      - {speed_limit: 0}
+    - - 193
+      - 194
+      - {speed_limit: 0}
+    - - 194
+      - 193
+      - {speed_limit: 0}
+    - - 193
+      - 195
+      - {speed_limit: 0}
+    - - 195
+      - 193
+      - {speed_limit: 0}
+    - - 195
+      - 196
+      - {speed_limit: 0}
+    - - 196
+      - 195
+      - {speed_limit: 0}
+    - - 195
+      - 197
+      - {speed_limit: 0}
+    - - 197
+      - 195
+      - {speed_limit: 0}
+    - - 197
+      - 198
+      - {speed_limit: 0}
+    - - 198
+      - 197
+      - {speed_limit: 0}
+    - - 198
+      - 199
+      - {speed_limit: 0}
+    - - 199
+      - 198
+      - {speed_limit: 0}
+    - - 198
+      - 200
+      - {speed_limit: 0}
+    - - 200
+      - 198
+      - {speed_limit: 0}
+    - - 200
+      - 201
+      - {speed_limit: 0}
+    - - 201
+      - 200
+      - {speed_limit: 0}
+    - - 200
+      - 36
+      - {speed_limit: 0}
+    - - 36
+      - 200
+      - {speed_limit: 0}
+    - - 197
+      - 202
+      - {speed_limit: 0}
+    - - 202
+      - 197
+      - {speed_limit: 0}
+    - - 202
+      - 203
+      - {speed_limit: 0}
+    - - 203
+      - 202
+      - {speed_limit: 0}
+    - - 202
+      - 204
+      - {speed_limit: 0}
+    - - 204
+      - 202
+      - {speed_limit: 0}
+    - - 204
+      - 205
+      - {speed_limit: 0}
+    - - 205
+      - 204
+      - {speed_limit: 0}
+    - - 204
+      - 206
+      - {speed_limit: 0}
+    - - 206
+      - 204
+      - {speed_limit: 0}
+    - - 206
+      - 207
+      - {speed_limit: 0}
+    - - 207
+      - 206
+      - {speed_limit: 0}
+    - - 207
+      - 208
+      - {speed_limit: 0}
+    - - 208
+      - 207
+      - {speed_limit: 0}
+    - - 207
+      - 209
+      - {speed_limit: 0}
+    - - 209
+      - 207
+      - {speed_limit: 0}
+    - - 206
+      - 210
+      - {speed_limit: 0}
+    - - 210
+      - 206
+      - {speed_limit: 0}
+    - - 210
+      - 211
+      - {speed_limit: 0}
+    - - 211
+      - 210
+      - {speed_limit: 0}
+    - - 210
+      - 212
+      - {speed_limit: 0}
+    - - 212
+      - 210
+      - {speed_limit: 0}
+    - - 212
+      - 213
+      - {speed_limit: 0}
+    - - 213
+      - 212
+      - {speed_limit: 0}
+    - - 212
+      - 214
+      - {speed_limit: 0}
+    - - 214
+      - 212
+      - {speed_limit: 0}
+    - - 214
+      - 215
+      - {speed_limit: 0}
+    - - 215
+      - 214
+      - {speed_limit: 0}
+    - - 214
+      - 216
+      - {speed_limit: 0}
+    - - 216
+      - 214
+      - {speed_limit: 0}
+    - - 216
+      - 217
+      - {speed_limit: 0}
+    - - 217
+      - 216
+      - {speed_limit: 0}
+    - - 216
+      - 218
+      - {speed_limit: 0}
+    - - 218
+      - 216
+      - {speed_limit: 0}
+    - - 218
+      - 219
+      - {speed_limit: 0}
+    - - 219
+      - 218
+      - {speed_limit: 0}
+    - - 218
+      - 220
+      - {speed_limit: 0}
+    - - 220
+      - 218
+      - {speed_limit: 0}
+    - - 220
+      - 221
+      - {speed_limit: 0}
+    - - 221
+      - 220
+      - {speed_limit: 0}
+    - - 220
+      - 222
+      - {speed_limit: 0}
+    - - 222
+      - 220
+      - {speed_limit: 0}
+    - - 222
+      - 223
+      - {speed_limit: 0}
+    - - 223
+      - 222
+      - {speed_limit: 0}
+    - - 222
+      - 224
+      - {speed_limit: 0}
+    - - 224
+      - 222
+      - {speed_limit: 0}
+    - - 224
+      - 225
+      - {speed_limit: 0}
+    - - 225
+      - 224
+      - {speed_limit: 0}
+    - - 224
+      - 226
+      - {speed_limit: 0}
+    - - 226
+      - 224
+      - {speed_limit: 0}
+    - - 226
+      - 227
+      - {speed_limit: 0}
+    - - 227
+      - 226
+      - {speed_limit: 0}
+    - - 226
+      - 228
+      - {speed_limit: 0}
+    - - 228
+      - 226
+      - {speed_limit: 0}
+    - - 228
+      - 229
+      - {speed_limit: 0}
+    - - 229
+      - 228
+      - {speed_limit: 0}
+    - - 228
+      - 230
+      - {speed_limit: 0}
+    - - 230
+      - 228
+      - {speed_limit: 0}
+    - - 230
+      - 231
+      - {speed_limit: 0}
+    - - 231
+      - 230
+      - {speed_limit: 0}
+    - - 230
+      - 232
+      - {speed_limit: 0}
+    - - 232
+      - 230
+      - {speed_limit: 0}
+    - - 232
+      - 233
+      - {speed_limit: 0}
+    - - 233
+      - 232
+      - {speed_limit: 0}
+    - - 232
+      - 234
+      - {speed_limit: 0}
+    - - 234
+      - 232
+      - {speed_limit: 0}
+    - - 234
+      - 235
+      - {speed_limit: 0}
+    - - 235
+      - 234
+      - {speed_limit: 0}
+    - - 234
+      - 236
+      - {speed_limit: 0}
+    - - 236
+      - 234
+      - {speed_limit: 0}
+    - - 236
+      - 237
+      - {speed_limit: 0}
+    - - 237
+      - 236
+      - {speed_limit: 0}
+    - - 236
+      - 238
+      - {speed_limit: 0}
+    - - 238
+      - 236
+      - {speed_limit: 0}
+    - - 238
+      - 239
+      - {speed_limit: 0}
+    - - 239
+      - 238
+      - {speed_limit: 0}
+    - - 238
+      - 240
+      - {speed_limit: 0}
+    - - 240
+      - 238
+      - {speed_limit: 0}
+    - - 240
+      - 241
+      - {speed_limit: 0}
+    - - 241
+      - 240
+      - {speed_limit: 0}
+    - - 240
+      - 242
+      - {speed_limit: 0}
+    - - 242
+      - 240
+      - {speed_limit: 0}
+    - - 242
+      - 243
+      - {speed_limit: 0}
+    - - 243
+      - 242
+      - {speed_limit: 0}
+    - - 242
+      - 244
+      - {speed_limit: 0}
+    - - 244
+      - 242
+      - {speed_limit: 0}
+    - - 244
+      - 245
+      - {speed_limit: 0}
+    - - 245
+      - 244
+      - {speed_limit: 0}
+    - - 245
+      - 246
+      - {speed_limit: 0}
+    - - 246
+      - 245
+      - {speed_limit: 0}
+    - - 246
+      - 160
+      - {speed_limit: 0}
+    - - 160
+      - 246
+      - {speed_limit: 0}
+    - - 247
+      - 160
+      - {speed_limit: 0}
+    - - 160
+      - 247
+      - {speed_limit: 0}
+    - - 247
+      - 248
+      - {speed_limit: 0}
+    - - 248
+      - 247
+      - {speed_limit: 0}
+    - - 247
+      - 249
+      - {speed_limit: 0}
+    - - 249
+      - 247
+      - {speed_limit: 0}
+    - - 249
+      - 250
+      - {speed_limit: 0}
+    - - 250
+      - 249
+      - {speed_limit: 0}
+    - - 249
+      - 251
+      - {speed_limit: 0}
+    - - 251
+      - 249
+      - {speed_limit: 0}
+    - - 251
+      - 252
+      - {speed_limit: 0}
+    - - 252
+      - 251
+      - {speed_limit: 0}
+    - - 251
+      - 253
+      - {speed_limit: 0}
+    - - 253
+      - 251
+      - {speed_limit: 0}
+    - - 253
+      - 254
+      - {speed_limit: 0}
+    - - 254
+      - 253
+      - {speed_limit: 0}
+    - - 254
+      - 255
+      - {speed_limit: 0}
+    - - 255
+      - 254
+      - {speed_limit: 0}
+    - - 255
+      - 256
+      - {speed_limit: 0}
+    - - 256
+      - 255
+      - {speed_limit: 0}
+    - - 256
+      - 0
+      - {speed_limit: 0}
+    - - 0
+      - 256
+      - {speed_limit: 0}
+    - - 0
+      - 257
+      - {speed_limit: 0}
+    - - 257
+      - 0
+      - {speed_limit: 0}
+    - - 257
+      - 258
+      - {speed_limit: 0}
+    - - 258
+      - 257
+      - {speed_limit: 0}
+    - - 258
+      - 254
+      - {speed_limit: 0}
+    - - 254
+      - 258
+      - {speed_limit: 0}
+    - - 254
+      - 259
+      - {speed_limit: 0}
+    - - 259
+      - 254
+      - {speed_limit: 0}
+    - - 259
+      - 0
+      - {speed_limit: 0}
+    - - 0
+      - 259
+      - {speed_limit: 0}
+    - - 253
+      - 260
+      - {speed_limit: 0}
+    - - 260
+      - 253
+      - {speed_limit: 0}
+    - - 260
+      - 78
+      - {speed_limit: 0}
+    - - 78
+      - 260
+      - {speed_limit: 0}
+    - - 260
+      - 261
+      - {speed_limit: 0}
+    - - 261
+      - 260
+      - {speed_limit: 0}
+    - - 261
+      - 262
+      - {speed_limit: 0}
+    - - 262
+      - 261
+      - {speed_limit: 0}
+    - - 261
+      - 263
+      - {speed_limit: 0}
+    - - 263
+      - 261
+      - {speed_limit: 0}
+    - - 263
+      - 264
+      - {speed_limit: 0}
+    - - 264
+      - 263
+      - {speed_limit: 0}
+    - - 264
+      - 265
+      - {speed_limit: 0}
+    - - 265
+      - 264
+      - {speed_limit: 0}
+    - - 265
+      - 266
+      - {speed_limit: 0}
+    - - 266
+      - 265
+      - {speed_limit: 0}
+    - - 265
+      - 267
+      - {speed_limit: 0}
+    - - 267
+      - 265
+      - {speed_limit: 0}
+    - - 267
+      - 268
+      - {speed_limit: 0}
+    - - 268
+      - 267
+      - {speed_limit: 0}
+    - - 267
+      - 269
+      - {speed_limit: 0}
+    - - 269
+      - 267
+      - {speed_limit: 0}
+    - - 269
+      - 270
+      - {speed_limit: 0}
+    - - 270
+      - 269
+      - {speed_limit: 0}
+    - - 270
+      - 271
+      - {speed_limit: 0}
+    - - 271
+      - 270
+      - {speed_limit: 0}
+    - - 271
+      - 272
+      - {speed_limit: 0}
+    - - 272
+      - 271
+      - {speed_limit: 0}
+    - - 263
+      - 273
+      - {speed_limit: 0}
+    - - 273
+      - 263
+      - {speed_limit: 0}
+    - - 273
+      - 274
+      - {speed_limit: 0}
+    - - 274
+      - 273
+      - {speed_limit: 0}
+    - - 273
+      - 275
+      - {speed_limit: 0}
+    - - 275
+      - 273
+      - {speed_limit: 0}
+    - - 275
+      - 276
+      - {speed_limit: 0}
+    - - 276
+      - 275
+      - {speed_limit: 0}
+    - - 276
+      - 277
+      - {speed_limit: 0}
+    - - 277
+      - 276
+      - {speed_limit: 0}
+    - - 277
+      - 278
+      - {speed_limit: 0}
+    - - 278
+      - 277
+      - {speed_limit: 0}
+    - - 278
+      - 279
+      - {speed_limit: 0}
+    - - 279
+      - 278
+      - {speed_limit: 0}
+    - - 279
+      - 280
+      - {speed_limit: 0}
+    - - 280
+      - 279
+      - {speed_limit: 0}
+    - - 279
+      - 281
+      - {speed_limit: 0}
+    - - 281
+      - 279
+      - {speed_limit: 0}
+    - - 281
+      - 282
+      - {speed_limit: 0}
+    - - 282
+      - 281
+      - {speed_limit: 0}
+    - - 282
+      - 283
+      - {speed_limit: 0}
+    - - 283
+      - 282
+      - {speed_limit: 0}
+    - - 283
+      - 284
+      - {speed_limit: 0}
+    - - 284
+      - 283
+      - {speed_limit: 0}
+    - - 284
+      - 285
+      - {speed_limit: 0}
+    - - 285
+      - 284
+      - {speed_limit: 0}
+    - - 285
+      - 286
+      - {speed_limit: 0}
+    - - 286
+      - 285
+      - {speed_limit: 0}
+    - - 285
+      - 287
+      - {speed_limit: 0}
+    - - 287
+      - 285
+      - {speed_limit: 0}
+    - - 287
+      - 288
+      - {speed_limit: 0}
+    - - 288
+      - 287
+      - {speed_limit: 0}
+    - - 288
+      - 289
+      - {speed_limit: 0}
+    - - 289
+      - 288
+      - {speed_limit: 0}
+    - - 289
+      - 290
+      - {speed_limit: 0}
+    - - 290
+      - 289
+      - {speed_limit: 0}
+    - - 289
+      - 291
+      - {speed_limit: 0}
+    - - 291
+      - 289
+      - {speed_limit: 0}
+    - - 291
+      - 292
+      - {speed_limit: 0}
+    - - 292
+      - 291
+      - {speed_limit: 0}
+    - - 292
+      - 293
+      - {speed_limit: 0}
+    - - 293
+      - 292
+      - {speed_limit: 0}
+    - - 293
+      - 294
+      - {speed_limit: 0}
+    - - 294
+      - 293
+      - {speed_limit: 0}
+    - - 294
+      - 295
+      - {speed_limit: 0}
+    - - 295
+      - 294
+      - {speed_limit: 0}
+    - - 295
+      - 296
+      - {speed_limit: 0}
+    - - 296
+      - 295
+      - {speed_limit: 0}
+    - - 296
+      - 297
+      - {speed_limit: 0}
+    - - 297
+      - 296
+      - {speed_limit: 0}
+    - - 297
+      - 298
+      - {speed_limit: 0}
+    - - 298
+      - 297
+      - {speed_limit: 0}
+    - - 297
+      - 299
+      - {speed_limit: 0}
+    - - 299
+      - 297
+      - {speed_limit: 0}
+    - - 299
+      - 300
+      - {speed_limit: 0}
+    - - 300
+      - 299
+      - {speed_limit: 0}
+    - - 299
+      - 291
+      - {speed_limit: 0}
+    - - 291
+      - 299
+      - {speed_limit: 0}
+    - - 291
+      - 293
+      - {speed_limit: 0}
+    - - 293
+      - 291
+      - {speed_limit: 0}
+    - - 297
+      - 292
+      - {speed_limit: 0}
+    - - 292
+      - 297
+      - {speed_limit: 0}
+    - - 296
+      - 155
+      - {speed_limit: 0}
+    - - 155
+      - 296
+      - {speed_limit: 0}
+    vertices:
+    - - 1457.601
+      - -1755.728
+      - {name: ''}
+    - - 1662.847
+      - -1590.207
+      - {name: ''}
+    - - 2090.363
+      - -1591.153
+      - {name: ''}
+    - - 2045.909
+      - -1653.578
+      - {name: ''}
+    - - 2194.292
+      - -1588.642
+      - {name: ''}
+    - - 2138.504
+      - -1535.333
+      - {name: ''}
+    - - 2287.581
+      - -1587.712
+      - {name: ''}
+    - - 2248.22
+      - -1645.359
+      - {name: ''}
+    - - 2374.361
+      - -1584.303
+      - {name: ''}
+    - - 2326.012
+      - -1531.304
+      - {name: ''}
+    - - 2486.866
+      - -1587.712
+      - {name: ''}
+    - - 2439.757
+      - -1646.289
+      - {name: ''}
+    - - 2570.857
+      - -1590.191
+      - {name: ''}
+    - - 2511.041
+      - -1527.585
+      - {name: ''}
+    - - 2664.767
+      - -1590.191
+      - {name: ''}
+    - - 2625.095
+      - -1644.429
+      - {name: ''}
+    - - 2753.097
+      - -1586.782
+      - {name: ''}
+    - - 2708.777
+      - -1530.065
+      - {name: ''}
+    - - 2863.742
+      - -1587.092
+      - {name: ''}
+    - - 2816.013
+      - -1652.177
+      - {name: ''}
+    - - 2955.482
+      - -1589.571
+      - {name: ''}
+    - - 2891.946
+      - -1529.135
+      - {name: ''}
+    - - 3048.151
+      - -1591.431
+      - {name: ''}
+    - - 3009.719
+      - -1642.26
+      - {name: ''}
+    - - 3132.452
+      - -1591.431
+      - {name: ''}
+    - - 3087.202
+      - -1539.363
+      - {name: ''}
+    - - 3227.911
+      - -1588.951
+      - {name: ''}
+    - - 3194.128
+      - -1640.09
+      - {name: ''}
+    - - 3330.188
+      - -1589.881
+      - {name: ''}
+    - - 3275.33
+      - -1521.696
+      - {name: ''}
+    - - 3423.787
+      - -1592.671
+      - {name: ''}
+    - - 3389.075
+      - -1639.16
+      - {name: ''}
+    - - 3520.175
+      - -1590.811
+      - {name: ''}
+    - - 3463.458
+      - -1533.784
+      - {name: ''}
+    - - 3612.535
+      - -1588.642
+      - {name: ''}
+    - - 3570.694
+      - -1649.078
+      - {name: ''}
+    - - 3977.013
+      - -1586.162
+      - {name: ''}
+    - - 3978.563
+      - -1745.157
+      - {name: ''}
+    - - 3854.901
+      - -1744.847
+      - {name: ''}
+    - - 3975.464
+      - -1817.99
+      - {name: ''}
+    - - 4179.088
+      - -1813.651
+      - {name: ''}
+    - - 3975.464
+      - -1904.151
+      - {name: ''}
+    - - 3618.113
+      - -1902.291
+      - {name: ''}
+    - - 3567.595
+      - -1842.475
+      - {name: ''}
+    - - 3520.485
+      - -1902.601
+      - {name: ''}
+    - - 3488.252
+      - -1944.132
+      - {name: ''}
+    - - 3411.08
+      - -1896.093
+      - {name: ''}
+    - - 3372.958
+      - -1838.446
+      - {name: ''}
+    - - 3337.626
+      - -1899.502
+      - {name: ''}
+    - - 3297.955
+      - -1950.951
+      - {name: ''}
+    - - 3226.361
+      - -1901.052
+      - {name: ''}
+    - - 3181.111
+      - -1836.896
+      - {name: ''}
+    - - 3147.949
+      - -1902.911
+      - {name: ''}
+    - - 3102.079
+      - -1962.418
+      - {name: ''}
+    - - 3035.444
+      - -1904.461
+      - {name: ''}
+    - - 2982.136
+      - -1844.644
+      - {name: ''}
+    - - 2960.44
+      - -1902.911
+      - {name: ''}
+    - - 2919.53
+      - -1958.389
+      - {name: ''}
+    - - 2846.696
+      - -1908.18
+      - {name: ''}
+    - - 2804.545
+      - -1846.814
+      - {name: ''}
+    - - 2765.184
+      - -1905.081
+      - {is_charger: true, is_parking_spot: true, name: spawn_tw1, spawn_robot_name: tw1}
+    - - 2734.191
+      - -1960.248
+      - {name: ''}
+    - - 2660.427
+      - -1907.87
+      - {name: ''}
+    - - 2625.405
+      - -1848.054
+      - {name: ''}
+    - - 2580.465
+      - -1904.771
+      - {name: ''}
+    - - 2538.315
+      - -1955.29
+      - {name: ''}
+    - - 2470.44
+      - -1903.221
+      - {name: ''}
+    - - 2427.36
+      - -1844.024
+      - {name: ''}
+    - - 2397.916
+      - -1901.672
+      - {name: ''}
+    - - 2350.807
+      - -1962.728
+      - {name: ''}
+    - - 2287.891
+      - -1909.73
+      - {name: ''}
+    - - 2241.091
+      - -1849.603
+      - {name: ''}
+    - - 2198.011
+      - -1910.04
+      - {name: ''}
+    - - 2166.708
+      - -1954.67
+      - {name: ''}
+    - - 2093.564
+      - -1909.11
+      - {name: ''}
+    - - 2054.823
+      - -1854.562
+      - {name: ''}
+    - - 1670.509
+      - -1905.391
+      - {name: ''}
+    - - 1562.343
+      - -1810.862
+      - {name: ''}
+    - - 1461.305
+      - -2089.18
+      - {name: ''}
+    - - 1551.495
+      - -2173.791
+      - {name: ''}
+    - - 1654.392
+      - -2212.222
+      - {name: ''}
+    - - 2103.482
+      - -2209.123
+      - {name: ''}
+    - - 2060.712
+      - -2277.927
+      - {name: ''}
+    - - 2182.514
+      - -2216.561
+      - {name: ''}
+    - - 2131.066
+      - -2154.575
+      - {name: ''}
+    - - 2291.61
+      - -2221.83
+      - {name: ''}
+    - - 2250.699
+      - -2276.378
+      - {name: ''}
+    - - 2379.63
+      - -2220.28
+      - {name: ''}
+    - - 2327.562
+      - -2162.943
+      - {name: ''}
+    - - 2476.948
+      - -2220.59
+      - {name: ''}
+    - - 2444.716
+      - -2275.138
+      - {name: ''}
+    - - 2574.887
+      - -2218.111
+      - {name: ''}
+    - - 2522.198
+      - -2159.534
+      - {name: ''}
+    - - 2671.585
+      - -2219.661
+      - {name: ''}
+    - - 2622.926
+      - -2287.225
+      - {name: ''}
+    - - 2772.003
+      - -2220.9
+      - {is_charger: true, is_parking_spot: true, name: spawn_tb1, spawn_robot_name: tb_1}
+    - - 2708.157
+      - -2156.435
+      - {name: ''}
+    - - 2858.783
+      - -2216.561
+      - {name: ''}
+    - - 2805.165
+      - -2279.167
+      - {name: ''}
+    - - 2958.891
+      - -2216.251
+      - {name: ''}
+    - - 2915.5
+      - -2164.803
+      - {name: ''}
+    - - 3044.742
+      - -2215.012
+      - {name: ''}
+    - - 3003.211
+      - -2269.249
+      - {name: ''}
+    - - 3138.031
+      - -2217.801
+      - {name: ''}
+    - - 3079.144
+      - -2159.844
+      - {name: ''}
+    - - 3233.179
+      - -2215.012
+      - {name: ''}
+    - - 3189.789
+      - -2274.518
+      - {name: ''}
+    - - 3340.106
+      - -2217.491
+      - {name: ''}
+    - - 3271.921
+      - -2154.885
+      - {name: ''}
+    - - 3423.477
+      - -2219.661
+      - {name: ''}
+    - - 3373.268
+      - -2279.477
+      - {name: ''}
+    - - 3518.626
+      - -2219.351
+      - {name: ''}
+    - - 3455.4
+      - -2149.616
+      - {name: ''}
+    - - 3620.283
+      - -2221.21
+      - {name: ''}
+    - - 3564.495
+      - -2272.659
+      - {name: ''}
+    - - 3974.534
+      - -2224.0
+      - {name: ''}
+    - - 3973.294
+      - -2062.836
+      - {name: ''}
+    - - 3847.462
+      - -2062.836
+      - {name: ''}
+    - - 1461.694
+      - -2340.669
+      - {name: ''}
+    - - 1499.811
+      - -2451.472
+      - {name: ''}
+    - - 1614.16
+      - -2533.467
+      - {name: ''}
+    - - 2100.454
+      - -2532.048
+      - {name: ''}
+    - - 2036.277
+      - -2460.425
+      - {name: ''}
+    - - 2193.352
+      - -2533.467
+      - {name: ''}
+    - - 2157.54
+      - -2582.752
+      - {name: ''}
+    - - 2304.687
+      - -2532.048
+      - {name: ''}
+    - - 2234.127
+      - -2465.034
+      - {name: ''}
+    - - 2394.393
+      - -2533.112
+      - {name: ''}
+    - - 2337.662
+      - -2592.325
+      - {name: ''}
+    - - 2484.809
+      - -2530.63
+      - {name: ''}
+    - - 2430.914
+      - -2467.162
+      - {name: ''}
+    - - 2576.288
+      - -2533.112
+      - {name: ''}
+    - - 2522.393
+      - -2597.289
+      - {name: ''}
+    - - 2668.831
+      - -2532.403
+      - {name: ''}
+    - - 2622.028
+      - -2481.345
+      - {name: ''}
+    - - 2761.02
+      - -2532.048
+      - {name: ''}
+    - - 2720.953
+      - -2588.78
+      - {name: ''}
+    - - 2842.925
+      - -2531.339
+      - {name: ''}
+    - - 2801.086
+      - -2482.763
+      - {name: ''}
+    - - 2943.269
+      - -2532.048
+      - {name: ''}
+    - - 2909.939
+      - -2581.688
+      - {name: ''}
+    - - 3038.294
+      - -2530.63
+      - {name: ''}
+    - - 2983.69
+      - -2473.544
+      - {name: ''}
+    - - 3143.602
+      - -2531.339
+      - {name: ''}
+    - - 3104.244
+      - -2581.688
+      - {name: ''}
+    - - 3239.69
+      - -2528.857
+      - {name: ''}
+    - - 3183.314
+      - -2475.317
+      - {name: ''}
+    - - 3337.906
+      - -2528.857
+      - {name: ''}
+    - - 3288.976
+      - -2584.525
+      - {name: ''}
+    - - 3419.458
+      - -2530.275
+      - {name: ''}
+    - - 3359.89
+      - -2465.743
+      - {name: ''}
+    - - 3520.511
+      - -2529.212
+      - {name: ''}
+    - - 3478.671
+      - -2578.142
+      - {name: ''}
+    - - 3623.691
+      - -2529.921
+      - {name: ''}
+    - - 3563.768
+      - -2471.771
+      - {name: ''}
+    - - 3971.525
+      - -2537.367
+      - {name: ''}
+    - - 3969.043
+      - -2441.987
+      - {name: ''}
+    - - 4021.874
+      - -2442.696
+      - {name: ''}
+    - - 3970.461
+      - -2399.439
+      - {name: ''}
+    - - 3841.397
+      - -2398.73
+      - {name: ''}
+    - - 1465.012
+      - -1401.901
+      - {name: ''}
+    - - 1546.997
+      - -1307.23
+      - {name: ''}
+    - - 1667.035
+      - -1265.154
+      - {name: ''}
+    - - 2099.545
+      - -1268.248
+      - {name: ''}
+    - - 2043.238
+      - -1204.516
+      - {name: ''}
+    - - 2200.402
+      - -1268.248
+      - {name: ''}
+    - - 2144.363
+      - -1354.042
+      - {name: ''}
+    - - 2284.389
+      - -1269.456
+      - {name: ''}
+    - - 2234.968
+      - -1202.294
+      - {name: ''}
+    - - 2393.369
+      - -1269.773
+      - {name: ''}
+    - - 2351.235
+      - -1333.767
+      - {name: ''}
+    - - 2485.242
+      - -1274.208
+      - {name: ''}
+    - - 2410.16
+      - -1202.294
+      - {name: ''}
+    - - 2589.66
+      - -1279.277
+      - {name: ''}
+    - - 2529.848
+      - -1327.684
+      - {name: ''}
+    - - 2679.886
+      - -1273.955
+      - {name: ''}
+    - - 2606.134
+      - -1207.299
+      - {name: ''}
+    - - 2761.494
+      - -1269.646
+      - {name: ''}
+    - - 2717.902
+      - -1338.329
+      - {name: ''}
+    - - 2859.069
+      - -1269.9
+      - {name: ''}
+    - - 2802.045
+      - -1204.258
+      - {name: ''}
+    - - 2958.926
+      - -1270.406
+      - {name: ''}
+    - - 2903.168
+      - -1328.191
+      - {name: ''}
+    - - 3035.465
+      - -1266.858
+      - {name: ''}
+    - - 2987.565
+      - -1212.622
+      - {name: ''}
+    - - 3143.685
+      - -1270.406
+      - {name: ''}
+    - - 3092.236
+      - -1332.5
+      - {name: ''}
+    - - 3233.15
+      - -1270.913
+      - {name: ''}
+    - - 3181.701
+      - -1214.649
+      - {name: ''}
+    - - 3325.403
+      - -1271.167
+      - {name: ''}
+    - - 3296.004
+      - -1317.547
+      - {name: ''}
+    - - 3419.683
+      - -1270.913
+      - {name: ''}
+    - - 3367.221
+      - -1216.93
+      - {name: ''}
+    - - 3533.225
+      - -1273.194
+      - {name: ''}
+    - - 3475.187
+      - -1334.02
+      - {name: ''}
+    - - 3617.368
+      - -1263.057
+      - {name: ''}
+    - - 3565.919
+      - -1202.991
+      - {name: ''}
+    - - 3977.003
+      - -1262.043
+      - {name: ''}
+    - - 3979.284
+      - -1360.125
+      - {name: ''}
+    - - 4041.123
+      - -1357.844
+      - {name: ''}
+    - - 3978.27
+      - -1430.582
+      - {name: ''}
+    - - 3852.562
+      - -1427.794
+      - {name: ''}
+    - - 3976.391
+      - -1192.478
+      - {name: ''}
+    - - 4079.999
+      - -1197.504
+      - {name: ''}
+    - - 3976.778
+      - -1096.603
+      - {name: ''}
+    - - 3834.124
+      - -1103.175
+      - {name: ''}
+    - - 3975.618
+      - -946.991
+      - {name: ''}
+    - - 3976.778
+      - -897.12
+      - {name: ''}
+    - - 4170.075
+      - -899.053
+      - {name: ''}
+    - - 3974.666
+      - -597.779
+      - {name: ''}
+    - - 3626.702
+      - -944.634
+      - {name: ''}
+    - - 3577.832
+      - -1013.097
+      - {name: ''}
+    - - 3500.811
+      - -945.309
+      - {name: ''}
+    - - 3464.328
+      - -898.241
+      - {name: ''}
+    - - 3426.943
+      - -945.309
+      - {name: ''}
+    - - 3383.478
+      - -1005.89
+      - {name: ''}
+    - - 3315.465
+      - -951.615
+      - {name: ''}
+    - - 3282.81
+      - -907.925
+      - {name: ''}
+    - - 3243.399
+      - -949.588
+      - {name: ''}
+    - - 3189.574
+      - -1015.124
+      - {name: ''}
+    - - 3114.58
+      - -948.462
+      - {name: ''}
+    - - 3092.51
+      - -909.501
+      - {name: ''}
+    - - 3037.559
+      - -946.21
+      - {name: ''}
+    - - 3013.462
+      - -1003.638
+      - {name: ''}
+    - - 2936.666
+      - -946.436
+      - {name: ''}
+    - - 2907.389
+      - -893.962
+      - {name: ''}
+    - - 2858.519
+      - -952.741
+      - {name: ''}
+    - - 2815.954
+      - -1007.917
+      - {name: ''}
+    - - 2750.644
+      - -952.291
+      - {name: ''}
+    - - 2723.844
+      - -909.501
+      - {name: ''}
+    - - 2671.146
+      - -951.84
+      - {name: ''}
+    - - 2627.906
+      - -1009.944
+      - {name: ''}
+    - - 2552.461
+      - -951.165
+      - {name: ''}
+    - - 2524.085
+      - -891.485
+      - {name: ''}
+    - - 2485.575
+      - -952.516
+      - {name: ''}
+    - - 2443.235
+      - -1010.395
+      - {name: ''}
+    - - 2373.646
+      - -949.588
+      - {name: ''}
+    - - 2330.406
+      - -891.26
+      - {name: ''}
+    - - 2295.499
+      - -945.985
+      - {name: ''}
+    - - 2255.187
+      - -1007.016
+      - {name: ''}
+    - - 2172.31
+      - -949.363
+      - {name: ''}
+    - - 2132.449
+      - -889.683
+      - {name: ''}
+    - - 2108.577
+      - -950.714
+      - {name: L_1_4}
+    - - 2064.211
+      - -1007.242
+      - {name: ''}
+    - - 1662.89
+      - -950.94
+      - {name: ''}
+    - - 1528.892
+      - -1016.7
+      - {name: ''}
+    - - 1466.509
+      - -1111.288
+      - {name: L_1_1}
+    - - 976.266
+      - -1401.272
+      - {name: ''}
+    - - 973.121
+      - -1032.669
+      - {name: ''}
+    - - 981.826
+      - -1484.655
+      - {name: ''}
+    - - 911.779
+      - -1485.862
+      - {name: ''}
+    - - 980.055
+      - -1649.547
+      - {name: ''}
+    - - 789.72
+      - -1641.174
+      - {name: ''}
+    - - 982.31
+      - -1751.317
+      - {name: ''}
+    - - 1168.136
+      - -1750.351
+      - {name: ''}
+    - - 1167.17
+      - -1694.313
+      - {name: ''}
+    - - 1426.103
+      - -1694.635
+      - {name: ''}
+    - - 1420.628
+      - -1807.355
+      - {name: ''}
+    - - 1164.593
+      - -1809.287
+      - {name: ''}
+    - - 1283.754
+      - -1748.419
+      - {name: ''}
+    - - 971.386
+      - -2092.289
+      - {name: ''}
+    - - 963.978
+      - -2551.208
+      - {name: ''}
+    - - 1007.7
+      - -2545.804
+      - {name: ''}
+    - - 955.627
+      - -2733.562
+      - {name: ''}
+    - - 767.377
+      - -2721.772
+      - {name: ''}
+    - - 539.826
+      - -2844.39
+      - {name: ''}
+    - - 579.52
+      - -3004.736
+      - {name: ''}
+    - - 298.128
+      - -2809.019
+      - {name: ''}
+    - - 201.841
+      - -2978.012
+      - {name: ''}
+    - - 174.724
+      - -2745.746
+      - {name: ''}
+    - - 68.219
+      - -2617.233
+      - {name: ''}
+    - - 30.098
+      - -2450.991
+      - {name: ''}
+    - - 40.316
+      - -2309.902
+      - {name: ''}
+    - - 1136.371
+      - -2823.688
+      - {name: ''}
+    - - 1069.983
+      - -3020.777
+      - {name: ''}
+    - - 1368.308
+      - -2872.478
+      - {name: ''}
+    - - 1557.145
+      - -3113.582
+      - {name: ''}
+    - - 1631.331
+      - -3244.672
+      - {name: ''}
+    - - 1799.513
+      - -3348.785
+      - {name: ''}
+    - - 2226.926
+      - -3510.645
+      - {name: ''}
+    - - 2163.839
+      - -3684.448
+      - {name: ''}
+    - - 2630.874
+      - -3652.976
+      - {name: ''}
+    - - 2897.269
+      - -3745.708
+      - {name: ''}
+    - - 3040.02
+      - -3463.577
+      - {name: ''}
+    - - 3214.245
+      - -3371.406
+      - {name: ''}
+    - - 3475.02
+      - -3352.298
+      - {name: ''}
+    - - 3516.047
+      - -3206.174
+      - {name: ''}
+    - - 3568.314
+      - -3414.119
+      - {name: ''}
+    - - 3821.221
+      - -3347.24
+      - {name: ''}
+    - - 3976.337
+      - -3129.178
+      - {name: ''}
+    - - 4024.108
+      - -3126.93
+      - {name: ''}
+    - - 3978.023
+      - -3016.775
+      - {name: ''}
+    - - 4215.755
+      - -3021.271
+      - {name: ''}
+    - - 4215.755
+      - -2816.698
+      - {name: ''}
+    - - 4143.817
+      - -2814.45
+      - {name: ''}
+    - - 4146.065
+      - -2714.973
+      - {name: ''}
+    - - 3974.651
+      - -2709.915
+      - {name: ''}
+    - - 3970.932
+      - -2816.549
+      - {name: ''}
+    - - 3920.644
+      - -2815.99
+      - {name: ''}
+    - - 3970.652
+      - -2939.476
+      - {name: ''}
+    - - 3848.843
+      - -2941.99
+      - {name: ''}
