@@ -1,0 +1,21 @@
+BURGER
+
+server:
+x_origin = -137.0
+y_origin = 208.05 - 97.7 = 110.8
+
+robot_mina1.launch.py:
+x_origin = 138.6 - 137 = 1.6
+y_origin = 110.8 - 111 = -0.2
+
+
+
+WAFFLE
+
+server:
+x_origin = -137.0
+y_origin = 208.05 - 97.7 = 110.8
+
+robot_mina1.launch.py:
+x_origin = 138.25 - 137 = 1.25
+y_origin = 110.8 - 95.25 = 15.55
