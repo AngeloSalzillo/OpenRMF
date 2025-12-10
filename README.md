@@ -2,7 +2,7 @@
 
 
 ### **Project Overview**
-![Project Overview](img1.png)
+![Project Overview](img2.png)
 
 This repository contains the implementation of my Master’s thesis project at Politecnico di Torino, focused on multi-robot coordination and autonomous navigation using ROS2 and OpenRMF
 The system enables multiple robots to:
@@ -16,7 +16,7 @@ Simulations were designed to generate, analyze, and validate data, ensuring the 
 
 
 ### **Architecture & Methodology**
-![Architecture & Methogology](img2.png)
+![Architecture & Methogology](img1.png)
 
 The system is organized into modular components for scalability and maintainability:
 
@@ -35,12 +35,12 @@ The system is organized into modular components for scalability and maintainabil
 
 
 ### **Results & Demonstrations**
-
+![Results & Demonstrations](img4.png)
 - Real-time multi-robot coordination in simulated environments
 - Environment maps generated with LiDAR
 - Navigation and obstacle avoidance validated through data logging and visualization
 ![Results & Demonstrations](img3.png)
-![Results & Demonstrations](img4.png)
+
 
 
 
