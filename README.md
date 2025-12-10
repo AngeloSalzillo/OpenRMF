@@ -16,6 +16,7 @@ Simulations were designed to generate, analyze, and validate data, ensuring the 
 
 
 ### **Architecture & Methodology**
+![Architecture & Methogology](img2.png)
 
 The system is organized into modular components for scalability and maintainability:
 
