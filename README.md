@@ -4,7 +4,7 @@
 ### **Project Overview**
 ![Project Overview](img2.png)
 
-This repository contains the implementation of my Master’s thesis project at Politecnico di Torino, focused on multi-robot coordination and autonomous navigation using ROS2 and OpenRMF
+This repository contains the implementation of an application for the control and interaction of fleets of robots (Multi-Robot Coordination), focused on autonomous navigation and the execution of tasks (patrol, cleaning, and delivery) using ROS2 and OpenRMF framework, developed at AMTC laboratories in Santiago de Chile.
 The system enables multiple robots to:
 
 - Navigate autonomously in complex environments
