@@ -1,0 +1,70 @@
+<?xml version='1.0' ?>
+<launch>
+  <!-- launch the free fleet client -->
+  <arg name="tb1_prefix" default="tw_1"/>
+  <node name="$(var tb1_prefix)_free_fleet_client_node" 
+      pkg="free_fleet_client_ros2" exec="free_fleet_client_ros2" output="both">
+    <remap from="/tf" to="/$(var tb1_prefix)/tf"/>
+    <remap from="/tf_static" to="/$(var tb1_prefix)/tf_static"/>
+    <param name="fleet_name" value="waffle"/>
+    <param name="robot_name" value="$(var tb1_prefix)"/>
+    <param name="level_name" value="L1"/>
+    <param name="dds_domain" value="43"/>
+    <param name="max_dist_to_first_waypoint" value="100.0"/>
+    <param name="map_frame" value="map"/>
+    <param name="robot_frame" value="base_footprint"/>
+    <param name="use_sim_time" value="True"/>
+    <param name="nav2_server_name" value="$(var tb1_prefix)/navigate_to_pose"/>
+  </node>
+
+  
+  <arg name="tb2_prefix" default="tw_2"/>
+  <node name="$(var tb2_prefix)_free_fleet_client_node" 
+      pkg="free_fleet_client_ros2" exec="free_fleet_client_ros2" output="both">
+    <remap from="/tf" to="/$(var tb2_prefix)/tf"/>
+    <remap from="/tf_static" to="/$(var tb2_prefix)/tf_static"/>
+    <param name="fleet_name" value="waffle"/>
+    <param name="robot_name" value="$(var tb2_prefix)"/>
+    <param name="level_name" value="L1"/>
+    <param name="dds_domain" value="43"/>
+    <param name="max_dist_to_first_waypoint" value="100.0"/>
+    <param name="map_frame" value="map"/>
+    <param name="robot_frame" value="base_footprint"/>
+    <param name="use_sim_time" value="True"/>
+    <param name="nav2_server_name" value="$(var tb2_prefix)/navigate_to_pose"/>
+  </node>
+
+  <arg name="tb3_prefix" default="tw_3"/>
+  <node name="$(var tb3_prefix)_free_fleet_client_node" 
+      pkg="free_fleet_client_ros2" exec="free_fleet_client_ros2" output="both">
+    <remap from="/tf" to="/$(var tb3_prefix)/tf"/>
+    <remap from="/tf_static" to="/$(var tb3_prefix)/tf_static"/>
+    <param name="fleet_name" value="waffle"/>
+    <param name="robot_name" value="$(var tb3_prefix)"/>
+    <param name="level_name" value="L1"/>
+    <param name="dds_domain" value="43"/>
+    <param name="max_dist_to_first_waypoint" value="100.0"/>
+    <param name="map_frame" value="map"/>
+    <param name="robot_frame" value="base_footprint"/>
+    <param name="use_sim_time" value="True"/>
+    <param name="nav2_server_name" value="$(var tb3_prefix)/navigate_to_pose"/>
+  </node>
+
+  <!--
+  <arg name="tb4_prefix" default="waffle_4"/>
+  <node name="$(var tb4_prefix)_free_fleet_client_node" 
+      pkg="free_fleet_client_ros2" exec="free_fleet_client_ros2" output="both">
+    <remap from="/tf" to="/$(var tb4_prefix)/tf"/>
+    <remap from="/tf_static" to="/$(var tb4_prefix)/tf_static"/>
+    <param name="fleet_name" value="waffle"/>
+    <param name="robot_name" value="$(var tb4_prefix)"/>
+    <param name="level_name" value="L1"/>
+    <param name="dds_domain" value="42"/>
+    <param name="max_dist_to_first_waypoint" value="10.0"/>
+    <param name="map_frame" value="map"/>
+    <param name="robot_frame" value="base_footprint"/>
+    <param name="use_sim_time" value="True"/>
+    <param name="nav2_server_name" value="$(var tb4_prefix)/navigate_to_pose"/>
+  </node> -->
+</launch>
+
