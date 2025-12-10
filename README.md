@@ -1,4 +1,4 @@
-# **OpenRMF – Multi-Robot Coordination and SLAM with ROS2**
+# **OpenRMF – Multi-Robot Coordination and SLAM with ROS2 & Nav2**
 
 
 ### **Project Overview**
@@ -21,7 +21,7 @@ Simulations were designed to generate, analyze, and validate data, ensuring the 
 The system is organized into modular components for scalability and maintainability:
 
 1. ROS2 Nodes
-   - Python and C++ nodes for navigation, obstacle detection, and task scheduling
+   - Python and C++ nodes for navigation (Nav2), obstacle detection, and task scheduling
 
 2. Mapping & SLAM
    - Environment mapping using Cartographer ROS2
