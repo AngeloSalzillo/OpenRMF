@@ -2,6 +2,7 @@
 
 
 ### **Project Overview**
+![System Architecture](img1.png)
 
 This repository contains the implementation of my Master’s thesis project at Politecnico di Torino, focused on multi-robot coordination and autonomous navigation using ROS2 and OpenRMF
 The system enables multiple robots to:
