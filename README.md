@@ -1,7 +1,7 @@
 # **OpenRMF – Multi-Robot Coordination and SLAM with ROS2 & Nav2**
 
 
-### **Project Overview**
+## **Project Overview**
 ![Project Overview](img2.png)
 
 This repository contains the implementation of an application for the control and interaction of fleets of robots (Multi-Robot Coordination), focused on autonomous navigation and the execution of tasks (patrol, cleaning, and delivery) using ROS2 and OpenRMF framework, developed at AMTC laboratories in Santiago de Chile.
@@ -14,8 +14,9 @@ The system enables multiple robots to:
 
 Simulations were designed to generate, analyze, and validate data, ensuring the reliability of the system in real-world-like scenarios.
 
+---
 
-### **Architecture & Methodology**
+## **Architecture & Methodology**
 ![Architecture & Methogology](img1.png)
 
 The system is organized into modular components for scalability and maintainability:
@@ -33,8 +34,9 @@ The system is organized into modular components for scalability and maintainabil
    - Gazebo for 3D environment simulation
    - RViz for visualization and monitoring
 
+---
 
-### **Results & Demonstrations**
+## **Results & Demonstrations**
 ![Results & Demonstrations](img4.png)
 - Real-time multi-robot coordination in simulated environments
 - Environment maps generated with LiDAR
